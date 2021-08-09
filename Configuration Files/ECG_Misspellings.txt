@@ -1,0 +1,3658 @@
+Bad	Good
+AARNP	ARNP
+*lead	lead
+A C S	acute coronary syndrome
+A FfB	atrial fibrillation
+A Fib	atrial fibrillation
+A Fibrillation	atrial fibrillation
+A Flutter	atrial flutter
+A Futter	atrial flutter
+A V R	aortic valve replacement
+A>Fib	atrial fibrillation
+AAHYTHMIAS	arrhythmias
+AARYTHMIA	arrhythmia
+aAtrial	atrial
+ABALATION	ablation
+ABALITION	ablation
+ABALTION	ablation
+abberantly	aberrantly
+ABBERRANT	aberrant
+ABD	abdominal
+ABD0MINAL	abdominal
+ABDDOMINAL	abdominal
+ABDMINAL	abdominal
+ABDMPAIN	abdominal pain
+ABDNORAML	abnormal
+ABDNORMAL	abnormal
+ABDOINAL	abnormal
+ABDOMIINAL	abnormal
+ABDOMINA	abnormal
+ABDOMINALPAIN	abdominal pain
+ABDOMNIAL	abdominal
+ABDPAIN	abdominal pain
+aberancy	aberrancy
+aberantly	aberrantly
+ABLABTION	ablation
+ABLASION	ablation
+ABLATIO9N	ablation
+ABLATIONA	ablation
+ABLIATION	ablation
+ABNML	abnormal
+ABNOEMAL	abnormal
+ABNOMAL	abnormal
+ABNORAL	abnormal
+ABNORAML	abnormal
+ABNORMA	abnormal
+abnorma~	abnormal
+abnormaility	abnormality
+AbnormalEKG	Abnormal EKG
+abnormalites	abnormalities
+abnormalitiy	abnormality
+ABNORMALLABS	abnormal labs
+ABNORMALSTRESS	abnormal stress
+ABNORMALTIY	abnormality
+ABNORMAOITY	abnormality
+ABNORML	abnormal
+ABNORNAL	abnormal
+ABNORNALITY	abnormality
+Abnotmal	abnormal
+ABNPRMALITY	abnormality
+ABNRML	abnormal
+ABOMINAL	abdominal
+ABPAIN	abdominal pain
+ABSESS	abscess
+achieved~	achieved
+ACS	acute coronary syndrome
+acuter	acute
+ADD'L	additional
+ADENOCARCINO	adenocarcinoma
+ADENOSANT	adenosine
+ADMINSSION	admission
+admis	admission
+admision	admission
+admissio	admission
+ADMISSIOM	admission
+ADMISSSION	admission
+admiti	admit
+admition	admission
+ADMITTINGMD	admitting MD
+ADMITTION	admission
+ADMOSSION	admission
+ADNORMAL	abnormal
+AF	atrial fibrillation
+afemale	a female
+AFFIB	atrial fibrillation
+AFFIV	atrial fibrillation
+AFIB	atrial fibrillation
+A-FIB	atrial fibrillation
+AFIBB	atrial fibrillation
+AFIBR	atrial fibrillation
+AFIB-RAPID	atrial fibrillation rapid
+AFIBRILATION	atrial fibrillation
+A-FIBRILLATION	atrial fibrillation
+AFIF	atrial fibrillation
+AFLUTER	atrial flutter
+a-flutter	atrial flutter
+AGINA	angina
+A-GOB	atrial fibrillation
+alergy	allergy
+ALERT-	alert
+ALERTT	alert
+ALFUTTER	atrial flutter
+alternaing	alternating
+alzeheimer's	Alzheimer's
+Alzheiimer	Alzheimer's
+alzheim	Alzheimer's
+Alzheime	Alzheimer's
+alzheimers	Alzheimer's
+AMITRIPTYLLIN	amitriptyline
+ANALIZE	analyze
+ANAPHILAXIS	anaphylaxis
+ANASARCIA	anasarca
+ANEURSYM	aneurysm
+angi~	angina
+ANGIANA	angina
+Angina-CHRONIC	angina chronic
+ANHYTHMIA	arrhythmia
+anormalities	abnormalities
+ant MI date	anterior MI date
+ant septal	anteroseptal
+anter~	antero
+anterio	anterior
+anteriolateral	anterolateral
+anterioly	anteriorly
+Anteriore	anterior
+anterior-lateral	anterolateral
+anteriorwall	anterior wall
+anteriseptal	anteroseptal
+anteroir	anterior
+Anterolater-	anterolateral
+Antero-lateral	anterolateral
+Anterolatral	anterolateral
+anterolteral	anterolateral
+anterospetal	anteroseptal
+anterseptal	anteroseptal
+ANTI-ARYTHMIC	antiarrhythmic
+antrolateral	anterolateral
+ANXIEY-STAT	anxiety STAT
+ANXITEY	anxiety
+ANXIUS	anxious
+ANZIETY	anxiety
+Apaced	atrial paced
+APIN	pain
+AQBLATION	ablation
+ARDIAC	cardiac
+ARF	acute renal failure
+ARHITHMIAS	arrhythmias
+ARHYTHMIAS	arrhythmias
+arial	atrial
+ARITHMIA	arrhythmia
+arm-right	arm right
+ARRHITHMIA	arrhythmia
+ARRHITMIA	arrhythmia
+ARRHTHMIA	arrhythmia
+ARRHTHMIAS	arrhythmias
+ARRHTHMYa	arrhythmia
+ARRHTHYMIA	arrhythmia
+ARRHTHYMIAS	arrhythmias
+ARRHTMIA	arrhythmia
+ARRHTYHMI8AS	arrhythmias
+ARRHTYHMIA	arrhythmia
+ARRHTYHMIAS	arrhythmias
+ARRHTYMIA	arrhythmia
+ARRHTYMIAS	arrhythmias
+ARRHY	arrhythmia
+ARRHYHAMIAS	arrhythmias
+ARRHYHMIA	arrhythmia
+ARRHYHMIAS	arrhythmias
+ARRHYHTHMIA	arrhythmia
+ARRHYMIA	arrhythmia
+ARRHYMIAS	arrhythmia
+ARRHYTANIA	arrhythmia
+ARRHYTH	arrhythmia
+arrhyth ia	arrhythmia
+ARRHYTHEMIA	arrhythmia
+ARRHYTHIMA	arrhythmia
+ARRHYTHIMIA	arrhythmia
+ARRHYTHMAI	arrhythmia
+ARRHYTHMAS	arrhythmias
+ARRHYTHMIA'S	arrhythmias
+ARRHYTHMISA	arrhythmias
+ARRHYTHMMIA	arrhythmia
+ARRHYTMHIAS	arrhythmias
+ARRHYTMIA	arrhythmia
+ARRHYTMIAS	arrhythmias
+ARRHYTMYAS	arrhythmias
+ARRHYTMYIAS	arrhythmias
+ARRITHMIA	arrhythmia
+ARRITHMIAS	arrhythmias
+ARRITHYMIA	arrhythmia
+ARRITMIA	arrhythmia
+ARRST	arrest
+ARRTH	arrhythmia
+ARRTHMIA	arrhythmia
+ARRTHMIAS	arrhythmias
+ARRTHY	arrhythmia
+ARRTHYHMIAS	arrhythmias
+ARRTHYIMIAS	arrhythmias
+ARRTHYMIA	arrhythmia
+ARRTHYMIAS	arrhythmias
+ARRTHYMN	arrhythmia
+ARRTYMIA	arrhythmia
+ARRTYMIAS	arrhythmias
+ARRTYTHMIA	arrhythmia
+ARRY	arrhythmia
+ARRYHMIA	arrhythmia
+ARRYHMIAS	arrhythmias
+ARRYHTHMIA	arrhythmia
+ARRYHTHMIAS	arrhythmias
+ARRYHTMA	arrhythmia
+ARRYHTMAS	arrhythmias
+arryhtmia	arrythmia
+ARRYHTMIAS	arrhythmias
+ARRYHYMIAS	arrhythmias
+ARRYHYTHMIAS	arrhythmias
+ARRYMIA	arrhythmia
+ARRYMTHEMIA	arrhythmia
+ARRYMTHMIA	arrhythmia
+ARRYRTHMIA	arrhythmia
+ARRYT	arrhythmia
+ARRYTH	arrhythmia
+ARRYTHAMIA	arrhythmia
+ARRYTHEMIA	arrhythmia
+ARRYTHEMIAS	arrhythmias
+ARRYTHIA	arrhythmia
+ARRYTHIMA	arrhythmia
+ARRYTHIMAS	arrhythmias
+ARRYTHIMIA	arrhythmia
+ARRYTHM	arrhythmia
+ARRYTHMA	arrhythmia
+ARRYTHMAIS	arrhythmias
+ARRYTHMAS	arrhythmias
+ARRYTHMIA	arrhythmia
+ARRYTHMIAQ	arrhythmias
+ARRYTHMIAS	arrhythmias
+ARRYTHMIE	arrhythmia
+ARRYTHMIS	arrhythmias
+ARRYTHMMIA	arrhythmia
+ARRYTHMMIAS	arrhythmias
+ARRYTHYMIA	arrhythmia
+ARRYTMIA	arrhythmia
+ARRYTMIAS	arrhythmias
+artefacts	artifact
+ARTEROSCLEROSIS	arteriosclerosis
+ARTHMIA	arrhythmia
+ARTHYMIA	arrhythmia
+ARTIAL	atrial
+ARTIFAC	artifact
+Artifat	artifact
+ARTRIAL	atrial
+ARTYHMIA	arrhythmia
+ARYTHIMIAS	arrhythmias
+ARYTHMIA	arrhythmia
+ARYTHMIAS	arrhythmias
+ASCESS	assess
+ASCITIES	ascites
+ASHORTER	a shorter
+ASRRYTHMJIAS	arrhythmias
+ASSESSS	assess
+ASSESSTMENT	assessment
+astrocyto	astrocytoma
+As-Vpace	atrial sensed ventricular paced
+Asysole	asystole
+ASYTOLE	asystole
+AT FIB	atrial fibrillation
+ATACK	atrial tachycardia
+ATERIAL	arterial
+atial	atrial
+atipical	atypical
+atiral	atrial
+atrail	atrial
+ATRAL	atrial
+Atrial-	atrial 
+atrialhythm	atrial rhythm
+atrialk	atrial
+atrialor	atrial or
+Atrial-paced	atrial paced
+Atrial-sensed	atrial sensed
+Atrial-Ventricular	atrioventricular
+Atril	atrial
+atrila	atrial
+Atrio-	atrio
+Attention-deficit	attention deficit
+atyrial	atrial
+AVALIABLE	available
+AV-BLOCK	atrioventricular block
+AV-conducted	atrioventricular conducted
+A-Vconduction	AV conduction
+AVLATION	ablation
+AVPACED	AV paced
+AWARE-	aware
+AXIUS	axis
+AYRYTHMIA	arrhythmias
+BACKPAIN	back pain
+badenocarcinom	adenocarcinoma
+BALOON	balloon
+BARADYCARDIAC	bradycardia
+BARDYCARDIA	bradycardia
+BARUGADA	Brugada
+basekine	baseline
+BASELIN	baseline
+basically	basicly
+basicly	basically
+BASLINE	baseline
+BASWLINE	baseline
+BATERY	battery
+batrial	biatrial
+beause	because
+BEDTRIAGE	bed triage
+beecause	because
+beggining	beginning
+belectrodes	electrodes
+BestPossibleReading	best possible reading
+BIGEMENY	bigeminy
+BIGENING	bigeminy
+BIJEMINI	bigeminy
+BIV	biventricular
+BIVENT	biventricular
+BI-VENTRICULAR	biventricular
+BIV-ICD	biventricular ICD
+blcok	block
+BLEEING	bleeding
+block?	block
+blood-pressure	blood pressure
+BNORMAL	abnormal
+Boderline	borderline
+bordderline	borderline
+Bordeline	borderline
+borderlin	borderline
+Boredrline	borderline
+BPH	benign prostatic hypertrophy
+BPMand	BPM and
+BPMdue	BPM due
+bpmmmmmm	bpm
+bprderline	borderline
+BPReading	BP reading
+bpremature	premature
+BRADCARDIA	bradycardia
+BRADCYCARDIA	bradycardia
+BRADI	bradycardia
+bradicardia	bradycardia
+BRADICARDIAB	bradycardia
+BRADRYCARDIA	bradycardia
+braducardia	bradycardia
+BRADY	bradycardia
+bradyarrythmia	bradyarrhythmia
+BRADYCARD	bradycardia
+BRADYCARDA	bradycarida
+BRADYCARDI	bradycardia
+BRADYCARDIAA	bradycarida
+BRADYCARDIAL	bradycardia
+BRADYCARDIO	bradycardia
+BRADYCAREDIA	bradycardia
+BRADYCHARDIA	bradycardia
+BRADYCRDIA	bradycardia
+bradydia	bradycardia
+BRANCK	branch
+BRAYCARDIA	bradycardia
+brca1	BRCA 1
+brea~	breast
+BREAKTHROUH	breakthrough
+BREAT	breast
+brepeat	repeat
+BRETH	breath
+BRETHDING	breathing
+BRETHING	beathing
+BRONCHETASIS	bronchiectasis
+Brugada-pattern	Brugada pattern
+bundle-branch	bundle branch
+bvranch	branch
+bwith	with
+C0UGH	cough
+CAD	coronary artery disease
+CADIOVASCULAR	cardiovascular
+CADIOVERSION	cardioversion
+cahnges	changes
+CALCIFICA	calcification
+can't	cannot
+CARD ARREST	cardiac arrest
+CARDAIC	cardiac 
+CARDIACARRHYTHMIA	cardia arrhythmia
+CARDIACCATH	cardiac catheterization
+CARDIC	cardiac 
+CARDICA	cardiac 
+CARDICONVERSION	cardioversion
+CARDIOCONVER	cardioversion
+CARDIOCONVERSION	cardioversion
+CARDIOEVERSION	cardioversion
+CARDIOLMYPATHY	cardiomyopathy
+CARDIOMIOPATHY	cardiomyopathy
+CARDIOMOPATHY	cardiomyopathy
+cardiomyiopathy	cardiomyopathy
+CARDIOMYOPATHHY	cardiomyopathy
+CARDIOMYPATHY	cardiomyopathy
+CARDIOVASCUALR	cardiovascular
+CARDIOVERTION	cardioversion
+CARDIOVRSION	cardioversion
+CARDIVASCULAR	cardiovascular
+Cardoiomyopathy	cardiomyopathy
+cardoversion	cardioversion
+CARIAC	cardiac
+CARIOMYOPATHY	cardiomyopathy
+CARREST	arrest
+CATHERIZATION	catheterization
+CATHLAB	catheterization lab
+CATHTERIZATION	catheterization
+CCHEST	chest
+CCUnnurse	CCU nurse
+CEHST	chest
+cerebr~	cerebral
+certainity	certainty
+CERVICL	cervical
+CHAEST	chest
+CHAMGES	changes
+CHANGE'	change
+CHANGESD	changes
+CHANGES-POST	changes post
+channges	changes
+CHEAST	chest
+CHECH	chest
+CHEDT	chest
+CHEEST	chest
+CHEMOTHERAPHY	chemotherapy
+CHERST	chest
+CHESAT	chest
+CHESET	chest
+CHESG	chest
+CHESGT	chest
+CHESP	chest
+CHESST	chest
+CHESTB	chest
+CHESTM	chest
+CHESTN	chest
+CHESTP	chest
+CHESTPAIN	chest pain
+CHESTPRESSURE	chest pressure
+CHESTT	chest
+CHESY	chest
+CHETS	chest
+CHHEST	cchest
+CHNAGE	change
+CHNAGES	changes
+CHNGE	changes
+CHOLECYTITIS	cholecystitis
+CHOLITIS	colitis
+CHREST	chest
+CHRST	chest
+cinically	clinically
+CIRROHSIS	cirrhosis
+cjhanhgers	changes
+CLARANCE	clearance
+CLBBB	complete left bundle branch block
+CLEANRANCE	clearance
+CLEARAMCE	clearance
+CLEARANCED	clearance
+clear-cut	clearcut
+CLEAREANCE	clearance
+CLEARENCE	clearance
+CLEARINCE	clearance
+CLEARNANCE	clearance
+CLEARNCE	clearance
+CLERANCE	clearance
+CLERENCE	clearance
+clincal	clinical
+clinian	clinician
+CODEBLUE	code blue
+coduction	conduction
+COFFEEGROUD	coffee ground
+colrectal	colorectal
+comlexes	complexes
+compaible	compatible
+COMPAINT	complaint
+compatieble	compatible
+compeleted	completed
+compelxes	complexes
+COMPENTATIONS	compensations
+competinng	competing
+COMPEXES	complexes
+complex-	complexes
+complexes-	complexes
+complexs	complexes
+conbsecutive	consecutive
+cond disorder	conduction disorder
+condction	conduction
+condcution	conduction
+condider	consider
+CONDUCION	conduction
+CONDUCRED	conducted
+conductiomn	conduction
+conductoin	conduction
+conducton	conduction
+conductred	conducted
+conductrion	conduction
+configuation	configuration
+CONFUSSION	confusion
+congestiv~	congestive
+CONGRESTION	congestion
+conmplexes	complexes
+CONORARY	coronary
+Consdier	consider
+conside	consider
+consuder	consider
+contactions	contractions
+continuuous	continuous
+contrations	contractions
+copmplexes	complexes
+COREVALVE	core valve
+coro~	coronary
+COROTID	carotid
+correlaqte	correlate
+correlatiaon	correlation
+cosider	consider
+coupblets	couplets
+coupletes	couplets
+CPRESSURE	chest pressure
+CPX2MONTHS	chest pain x 2 months
+CRADIAC	cardiac
+CRAINOTOMY	craniotomy
+CRANOTOMY	craniotomy
+CRDIVERSION	cardioversion
+CRIRIS	crisis
+CRISSIS	crisis
+criterial	criteria
+CRONIC	chronic
+CUADRANT	quadrant
+cxhange	exchange
+CXRAY	chest x-ray
+CYCTOSCOPY	cystoscopy
+DAILY-ROUTINE	daily routine
+DAILY-STAT	daily STAT
+ddonor	donor
+DEBRILLATOR	defibrillator
+DECENDING	descending
+defauilt	default
+DEFIB	defibrillation
+DEFIBRILATOR	defibrillator
+DEFRIBILLATOR	defibrillator
+defviation	deviation
+degee	degree
+DEGREEE	degree
+DEHISC	dehiscence
+DEHYD	dehydrated
+DEHYDRTION	dehydration
+demencia	dementia
+demenitia	dementia
+dementhia	dementia
+depresion	depression
+DEPRESSICE	depression
+DEPRESSIION	depression
+depressoin	depression
+DEPRESSSION	depression
+DEPRRESSION	depression
+deree	degree
+DESAT	desaturation
+DESATING	desaturating
+DESATTING	desaturating
+desease	disease
+DEZZENESS	dizziness
+DEZZINESS	dizziness
+DIALATION	dilation
+DICOMFORT	discomfort
+DIEASE	disease
+diffucult	difficult
+DIHESSENCE	dehiscence
+dinor	donor
+DIOPHORETIC	diaphoretic
+Discom	discomfort
+DISCOMPFRT	discomfort
+DISCONFORT	discomfort
+DISDCOMFORT	discomfort
+disea	disease
+DISEAE	disease
+DISRHYTMIA	dysrhythmia
+DISRITHMIA	dysrhythmia
+DISRYTHMIA	dysrhythmias
+DISRYTHMIAS	dysrhythmias
+DISSINESS	dizziness
+DISSORIENTED	disoriented
+distress-moving	distress moving
+DISTRUBANCE	disturbance
+DITRESS	distress moving
+DIZINESS	dizziness
+DIZINESSD	dizziness
+DIZINEZZ	dizziness
+DIZZAINESS	dizziness
+DIZZIE	dizzy
+DIZZIESS	dizziness
+DIZZIINESS	dizziness
+DIZZINEDS	dizziness
+DIZZINEESS	dizziness
+DIZZINES	dizziness
+DIZZINESAS	dizziness
+DIZZINESSS	dizziness
+DIZZINEZZ	dizziness
+DIZZINNESS	dizziness
+DIZZINSS	dizziness
+DIZZNESS	dizziness
+DIZZYNESS	dizziness
+DIZZZINESS	dizziness
+DIZZZY	dizzy
+donoer	donor
+DRUGTOX	drug toxicity
+DSCOMFORT	discomfort
+DSPONTANEOUS	spontaneous
+DSYPNEA	dyspnea
+dual-paced	dual paced
+DURINH	during
+dxonor	donor
+dxose	dose
+DYRHTHMIA	dysrhythmia
+DYRHTHMIAS	dysrhythmias
+DYRHYTHMIAS	dysrhythmias
+DYSAPNEA	dyspnea
+DYSARRYTHMIA	dysrhythmia
+DYSARRYTHMIAS	dysrhythmias
+DYSCOMFORT	discomfort
+DYSNEA	dyspnea
+DYSPHIA	dyspnea
+DYSRHTMIAS	dysrhythmias
+DYSRHYTMIA	dysrhythmia
+DYSRITHMIA	dysrhythmia
+dysrrhythmia	dysrhythmia
+DYSRRYTHMIA	dysrhythmia
+DYSRTHMIAS	dysrhythmias
+DYSRUTHMIA	dysrhythmia
+DYSRYTHMIA	dysrhythmia
+EAKNESS	weakness
+eartly	early
+EAVAL	evaluation
+EBOLISM	embolism
+ECALUATE	evaluate
+echos	echocardiograms
+ectopc	ectopic
+ECTOPI	ectopic
+ECTO-PIC	ectopic
+ectopicC	ectopic
+ectopoic	ectopic
+ectpic	ectopic
+EEVALUATION	evaluation
+EFFREN	efferent
+EFFUSIO	effusion
+EKG s	ECGs
+EKGCHANGES	ECG changes
+EKGNOW	ECG now
+EKG-PREOP	ECG preoperative
+EKGs	ECGs
+ELAVATED	elevated
+ELAVATION	elevation
+ELAVUATE	evaluate
+ELCTROCUTION	electrocution
+elec5trode	electrode
+ELECTROLITE	electrolyte
+Electromic	electronic
+ELEVAED	elevated
+elevaqtion	elevation
+elevatgion	elevation
+elevation-	elevation
+ELEVATIONV5	elevation v5
+elevatiotion	elevation
+ELEVTAED	elevated
+elkevation	elevation
+ELVALUATE	evaluate
+EMEISIS	emesis
+EMERG	emergency
+EMERGANCY	emergency
+EMSIS	emesis
+ENCEPHALOPATY	encephalopathy
+ENDOCARDINIS	endocarditis
+ENDOCARDITID	endocarditis
+END-OF	end of
+ENOCARADITIS	endocarditis
+entricular	ventriculatr
+ENZIMES	enzymes
+EPIGA	epigastric
+EPIGASATRIC	epigastric
+EPIGAST	epigastric
+EPIGASTR	epigastric
+EPIGASTRC	epigastric
+EPIGASTRI	epigastric
+EPIGASTRICPAIN	epigastric pain
+EPIGATRIC	epigastric
+EPIGSTRIC	epigastric
+EPILEPDICUS	epilepticus
+EPILEPS	epilepsy
+EPISDOE	episode
+episgastric	epigastric
+EPIST	epistaxis
+EPIXTAXIS	epistaxis
+EPLAB	EP Lab
+ERBED	ER bed
+ERMERGENCY	emergency
+escap[e	escape
+escapre	escape
+Eschemia	ischemia
+EVALARRYTHMIA	evaluate arrhythmia
+EVALATE	evaluate
+EVALAUATION	evaluation
+EVALAUTE	evaluate
+EVALCP	evaluate chest pain
+evall	evaluate
+EVALLUATION	evaluation
+EVALRHYM	evaluate rhythm
+EVALSYNCOPE	evaluate syncope
+EVALUAETE	evaluate
+EVALUAION	evaluation
+evaluat	evaluate
+EVALUATIION	evaluation
+EVALUATIION'	evaluation
+EVALUATIO	evaluation
+EVALUATION'	evaluation
+EVALUATON	evaluation
+EVALUETE	evaluate
+EVALUTAE	evaluate
+EVALUTE	evaluate
+EVALUTION	evaluation
+EVAUALTE	evaluate
+EVAUATE	evaluate
+EVAUATION	evaluation
+EVAUL	evaluate
+EVAULATE	evaluate
+EVAULATION	evaluation
+EVLUATION	evaluation
+EXACERBATIOM	exacerbation
+EXARCERBATION	exacerbation
+EXCERBATION	exacerbation
+extention	extension
+extrasytoles	extrasystoles
+EXTRATION	extraction
+FACIALL	facial
+FAIALED	failed
+FAIGUE	vague
+FAILLURE	failure
+FAILUREPULMONARY	failure pulmonary
+FALIURE	failure
+fascicuar	fascicular
+fasicular	fascicular
+FATIGURE	fatigue
+FATIRGUE	fatigue
+fbrillation	fibrillation
+fdlutter	flutter
+fedmale	female
+FEVRE	fever
+FFRACTURE	fracture
+FIB SLOW	fibrillation slow
+fibillation	fibrillation
+FIBRALATION	fibrillation
+FIBRILATION	fibrillation
+fibrillaion	fibrillation
+fibrillatgion	fibrillation
+fibrillationwith	fibrillation with
+fibrillaton	fibrillation
+FIBRILLIATION	fibrillation
+fibtillation	fibrillation
+first-degree	first degree
+FISTU	fistula
+FISTULAMALFUNCTIO	fistula malfunction
+FLANKPAIN	flank pain
+FLIUD	fluid
+FLULIKESYMPTOMS	flu-like symptoms
+FLUNCTUATIONS	fluctuations
+FOLOW	follow
+frequen	frequent
+frequesnt	frequent
+frewuent	frequent
+funct	function
+FUNTION	function
+fusiuon	fusion
+ganglioneublastoma	ganglioneuroblastoma
+Gastro-esophageal	gastroesophageal
+gastropareses	gastroparesis
+gastroparesisi	gastroparesis
+GEBERALIZED	generalized
+GEENRATOR	gnerator
+GENERALISED	generalized
+giveb	given
+graf~	graft
+graft~	graft
+GRECIOUS	gracious
+HAERT	heart
+HALUCINATION	hallucination
+HARWARE	hardware
+HEADACE	headache
+HEADCHE	headache
+HEARTRATE	heart rate
+heart-valve	heart valve
+HEMATEMSIS	hematemesis
+HEMMRHAGE	hemorrhage
+HEMMROIDS	hemorhoids
+HEMODYALYSIS	hemodialysis
+HEMOPT	hemoptysis
+HEMOPTYIS	hemoptysis
+hepatpcellular	hepatocellular
+HEPERKALEMIA	hyperkalemia
+herpesviral	herpes viral
+HERPTIC	herpetic
+high-grade	high grade
+Hodkins	Hodgkins
+HPERTENSION	hypertension
+HPYPERKYLAMIA	hyperkalemia
+HTNSIVE	hypertensive
+hx	history
+HYPEKALEMIA	hyperkalemia
+hyperacuteT	hyperacute T
+HYPERGLECEMIA	hyperglycemia
+HYPERGLYCAEMI	hyperglycemia
+HYPERGLYCEIA	hyperglycemia
+HYPERGLYCEMMIA	hyperglycemia
+HYPERGYLCEMIA	hyperglycemia
+HYPERHALEMIA	hyperkalemia
+HYPERK	hyperkalemia
+HYPERKAL	hyperkalemia
+HYPERKALAMEIA	hyperkalemia
+HYPERKALCEMIA	hypercalcemia
+HYPERKALIMA	hyperkalemia
+HYPERKATEMIA	hyperkalemia
+HYPERKELEMIA	hyperkalemia
+HYPERLAKEMIA	hyperkalemia
+hyperlipidimia	hyperlipidemia
+hypertation	hyperaeration
+HYPERTENCIVE	hypertensive
+HYPERTENION	hypertension
+HYPERTENISON	hypertension
+hypertens~	hyptertension
+HYPERTENSIONN	hyptertension
+HYPERTENSON	hypertension
+HYPERTENSTION	hypertension
+hypertenti	hypertension
+HYPERTENTION	hypertension
+HYPERTION	hypertension
+HYPETENSION	hypertension
+HYPOCALEMIA	hypocalcemia
+HYPOCCLEMIC	hypocalcemic
+HYPOCLYCEMIA	hypocalcemia
+HYPOGL	hypoglycemia
+HYPOGLCEMIA	hypoglycemia
+HYPOGLY	hypoglycemia
+HYPOGYLCEMIA	hypoglycemia
+HYPOKALCEMIA	hypocalcemia
+HYPOKELEMIA	hypokalemia
+HYPOKELIMIA	hypokalemia
+hypoklemia	hypokalemia
+hypomagsemia	hypomagnesemia
+HYPONATERMIA	hyponatremia
+HYPONUTREMIA	hyponatremia
+HYPOT	hypotension
+HYPOTEN	hypotension
+HYPOTENION	hypotension
+HYPOTENISVE	hypotensive
+HYPOTENSIO	hypotension
+HYPOTENSIOM	hypotension
+HYPOTENTION	hypotension
+HYPOTHERIA	hypothermia
+HYPOTNSION	hypotension
+HYPRGLYCEMIA	hyperglycemia
+iachemia	ischemia
+ICRBBB	incomplete right bundle branch block
+icreased	increased
+iinfarction	infarction
+iinferior	inferior
+iischemia	ischemia
+imnterpretation	interpretation
+imoroved	improved
+implantabl~	implantable
+IMPLATATION	implantation
+IMPLATETION	implantation
+impluses	impulses
+INAPPORIATE	anappopriate
+inatten~	inattention
+INC RBBB	incomplete right bundle branch block
+INCERION	insertion
+INCERTION	insertion
+Incompete	incomplete
+Indeterinant	indeterminate
+indetermeinant	indeterminate
+Indeterminant	indeterminate
+ineraction	interaction
+inermittant	intermittent
+infact	infarction
+INFAECT	infarct
+infarctio	infarction
+infarctiojn	infarction
+infartction	infarction
+INFERCT	infarct
+inferiorand	inferior and
+Inferior-lateral	inferolateral
+INFEROLAT	inferolateral
+INFERO-LATERAL	inferolateral
+INFETIOUS	infectious
+INFILTATES	infiltrates
+INFRACTABLE	intractable
+infrior	inferior
+INFUSSION	infusion
+inicated	indicated
+INITAL	initial
+initi~	initial
+innefective	ineffective
+INPLANT	implant
+INPRECORDIAL	in precordial
+INSETION	insertion
+INSIFFICIENCY	insufficiency
+instrinsic	intrinsic
+INSUF	insufficient
+INSUFF	insufficient
+INSUFFICENCY	insufficiency
+INSUFFIENCENY	insufficiency
+INSUFICIENCY	insufficiency
+intepretation	interprettion
+intermentent	intermittent
+intermittanr	intermittent
+intermittant	intermittent
+intermittantly	intermittently
+interprettion	interpretation
+interv	intervention
+INTERVENA	intervene
+INTEVAL	interval
+INTIAL	initial
+intinsic	intrinsic
+INTITIAL	initial
+INTRACABLE	intractable
+inury	injury
+inversions	inversion
+invertion	inversion
+involentary	involuntary
+Inwffective	ineffective
+IRREG	irregular
+irreular	irregular
+IRRGEGULAR	irregular
+IRRGULAR	irregular
+ISCHEMAI	ischemia
+ISCHEMIA-	ischemia
+ISCHEMIS	ischemia
+ISCHERMIA	ischemia
+ishifted	is shifted
+isslower	is slower
+IWMI	inferior wall myocardial infarction
+IZZINESS	dizziness
+jumctional	junctional
+junctiional	junctional
+Junctinal	junctional
+junctionall	junctional
+junctios	junctional
+junctonal	junctional
+Junctuional	junctional
+Kaposi's	Karposi's
+kidney~	kidney
+kidneyy	kidney
+kidnye	kidney
+LAD	left axis deviation
+LAFB	left anterior fascicular block
+LAHB	left anterior hemiblock
+LATERIAL	lateral
+laterla	lateral
+LBBBand	LBBB and
+LBBBB	left bundle branch block
+LEAD EVAL	lead evaluation
+leafds	leads
+lenghthened	lengthened
+LETARGIC	lethargic
+LETHAGIC	lethargic
+leukem	leukemia
+leyiomyosarcoma	leiomyosarcoma
+likey	likely
+likley	likely
+limphoma	lymphoma
+loacalised	localized
+LOCA LISED	localized
+LOCALISED	localized
+longet	longest
+LOSSS	loss
+lower-outer	outer lower
+lukemia	leukemia
+LUQPAIN	LUQ pain
+LYMPHADEMA	lymphedema
+lymphone	lymphoma
+LYNPHOMA	lymphoma
+MAFUNCTION	malfunction
+MALF	malfunction
+MALFNCTIONING	malfunctioning
+MALFUCNTION	malfunction
+MALFUCTION	malfunction
+MALFUCTIONING	malfunctioning
+MALFUN	malfunction
+MALFUNC	malfunction
+MALFUNCTI	malfunction
+MALFUNCTIO	malfunction
+MALFUNTI	malfunction
+MALFUNTION	malfunction
+MALFUNTIONING	malfunctioning
+MALFUNTIONINGICD	malfunctioning ICD
+MALFUVCTIONING	malfunctioning
+malignaant	malignant
+MALIGNANY	malignancy
+MALNURISHED	malnourished
+MALPODSITION	malposition
+MDDICAL	medical
+MDEDICAL	medical
+MDORDER	MD order
+MEDICAT	medication
+MEDICATIO	medication
+MEDICVAL	medical
+memoery	memory
+MENINGIOM	meningioma
+MENSENTERIC	mesenteric
+MESAURE	measure
+MESTASTASES	metastases
+metastaes	metastases
+METASTASESS	metastases
+METHODONE	methadone
+METHYLPREDNISDONE	methylprednisone
+MIGRAIN	migraine
+migraino~	migranous
+MIGRANE	migraine
+MIGRINOSUS	migrainous
+Miinor	minor
+MINFARCT	infarct
+Minornon	minor non
+MIRAINE	migraine
+MIRANI	Mitrani
+MIRTANI	Mitrani
+misplaceemnt	misplacement
+misplacemen	misplacement
+misplacemenmt	misplacement
+mis-placement	misplacement
+misplacment	misplacement
+misposition	malposition
+missing-	missing
+MITAL	mitral
+MITRAINI	Mitrani
+MITRALCLIP	mitral clip
+MITRIANI	Mitrani
+MITRNI	Mitrani
+MITROCLIP	mitral clip
+MONITER	monitor
+MORBITZ	Mobitz
+morfology	morphology
+morhplogies	morphologies
+morpjhology	morphology
+mrhythm	rhythm
+mrophology	morphology
+Mu tifocal	multifocal
+mult~	multi
+multipl	multiple
+Multi-system	multisystem
+mutifocal	multifocal
+MYLOID	myeloid
+N0rmal	normal
+Natiive	native
+Nausesa	nausea
+NEARSYNCOPE	near-syncope
+NECKPAIN	nek pain
+NEDICAL	medical
+NEGRET	neck pain
+NEOSSTIGMINE	neostigmine
+NEURALG	neuralgia
+NEUTOPENIA	neutropenia
+NEUTRAPENIC	neutropenic
+NEUTROENIC	neutropenic
+NEUTRONPENIA	neutropenia
+NEUTROP	neutropenia
+NEUTRPENIC	neutropenic
+NEWPATIENT	new patient
+nfarct	infarct
+NMEDTRONIC	Medtronic
+nnormal	normal
+NOCTURAL	nocturnal
+nonconduced	nonconducted
+non-conducted	nonconducted
+non-conucted	nonconducted
+nonpacced	nonpaced
+non-paced	nonpacced
+nonspecfic	nonspecific
+Non-specific	nonspecific
+Nonspecifice	nonspecific
+NONSTEMI	non-STEMI
+non-sustained	nonsustained
+nonsustaned	nonsustained
+norml	normal
+nornal	normal
+nrmal	normal
+nromal	normal
+nsr wnl	normal sinus rhythm within normal limits
+NSSTCHANGES	NSST changes
+nsstw	NSST wave
+NSTEMI	non-STEMI
+NSTGMI	non-STEMI
+NTEMI	non-STEMI
+NUASEA	nausea
+NUETROPENIC	neutropenic
+NUMBESS	numbness
+oA FIB	atrial fibrillation
+OBST	obstruct
+OBSTR	obstruct
+obstru	obstruct
+occasiponal	occasional
+occasonal	occasional
+OCCASSIONAL	occasional
+occcadional	occasional
+OCCLUSSION	occlusion
+occsional	occasional
+OFARRHYTMIAS	of arrhythmias
+Oherwise	otherwise
+OIMPROVED	improved
+ompatible	compatible
+onfiguration	configuration
+onger	longer
+ONSEET	onset
+oomplex	complexes
+ORDERE	order
+ORDES	orders
+OREDR	order
+ORONARY	coronary
+osssible	possible
+OSTEOM	osteomyelitis
+OSTEOMYLITIS	osteomyelitis
+OSTEOPO	osteoporosis
+OVEROSE	overdose
+P[AIN	pain
+P[LACED	placed
+P[OST	post
+p_OSSIBLE	possible
+PAAIN	pain
+PAC S	PACs
+paceaker	pacemaker
+Paced-QRS	paced QRS
+PACEMAKE	pacemaker
+PACEMAKETR	pacemaker
+PACEMARKER	pacemaker
+PACENAKER	pacemaker
+PACERMAKER	pacemaker
+PACs	PAC
+PAC'S	PACs
+PAIIN	pain
+PAIINN	pain
+PAIKN	pain
+PAIN'	pain
+PAIN`	pain
+PAIN-INTIAL	pain-initial
+PAINK	pain
+PAINN	pain
+PAION	pain
+PAIPITATIONS	palpiptations
+PAIPN	pain
+palcement	placement
+PALPATAIONS	palpitations
+PALPATATION	palpitations
+PALPATATIONS	palpitations
+PALPATIONS	palpitations
+PALPATTIONS	palpitations
+PALPIATION	palpitation
+PALPIATIONS	palpitations
+PALPIITATIONS	palpitations
+PALPIPATIONS	palpitations
+PALPIT	palpitations
+PALPITAION	palpation
+PALPITAIONS	palpations
+PALPITATI	palpation
+PALPITATIO	palpation
+PALPITATION'	palpation
+PALPITATIONS	palpations
+PALPITATIPNS	palpitations
+PALPITATONS	palpations
+PALPITAYION	palpation
+PALPITTION	palpation
+PALPITTIONS	palpations
+PAN	pain
+PANCR	pancreatic
+PANIN	pain
+PAOIN	pain
+PAON	pain
+PAPITATIONS	palpitations
+PAPTENT	patent
+Paroxsmyl	paroxysmal
+PAROXYMAL	paroxysmal
+PAROYSYSMAL	paroxysmal
+particioant	participant
+PARTICIPANTIN	participating
+PAT	paroxysmal atrial tachycardia
+patern	pattern
+PATIEN	patient
+patiet	patient
+PATINET	patient
+patrern	pattern
+patterm	pattern
+patttern	pattern
+PAUN	pain
+PAZTIENT	patient
+PEGTUBE	PEG tube
+PERCARDIAL	pericardial
+PERFUSSION	perfusion
+pericaditis	pericarditis
+permature	premature
+perriods	periods
+PERSISTANT	persistent
+Persistrent	persistent
+Persitent	persistent
+PEUMONIA	pneumonia
+PFATIGUE	fatigue
+PHISICIAN	physician
+PHYICAL	physical
+PHYSICL	physical
+PHYSISCAL	physical
+PIAN	pain
+placemant	placement
+PLEURTIC	pleuritic
+PLEYRAL	pleural
+PLPITATION	palpitation
+PLPITATIONS	palpitations
+PNEMONIA	pneumonia
+PNEOMOTHORAX	pneumothorax
+PNEU	pneumonia
+PNEUMNIA	pneumonia
+PNEUMOMNIA	pneumonia
+PNEUMOTHRAX	pneumothorax
+PNEUMOTHROAX	pneemothorax
+PNUEMONIA	pneumonia
+PNUMOTHORAX	pneumothorax
+POCEDURE	procedure
+porolonged	prolonged
+poserior	posterior
+POSIBLE	possible
+POS-OP	postoperative
+pos-procedure	post-procedure
+Poss9ible	possible
+PossbileTracing	possible tracing
+possbly	possibly
+POSSIBLE-	possible
+Possiblle	possible
+possiblt	possible
+POSSITIVE	positive
+POSST	postoperative
+POSST-OP	postoperative
+POST-0P	postoperative
+POSTIVE	positive
+Post-Op	postoperative
+postpacing	post pacing
+potasium	potassium
+POTTASSIUM	potassium
+PPOST	post
+PPROTOCOL	protocol
+pr3emature	premature
+PRE*OP	preoperative
+Pre=Op	preoperative
+PRE-0P	preoperative
+PREASSURE	pressure
+PRE-CATH	precatheterization
+precoirdial	precordial
+precordials	precordial
+precoridal	precordial
+pre-excitation	preexcitation
+pre-existing	preexisting
+PREGANACY	pregnancy
+pregnacy	pregnancy
+prematrure	premature
+prematuren	premature
+premaure	premature
+premture	premature
+PREO	preoperative
+PREOB	preoperative
+PRE-OIP	preoperative
+PRE-OOP	preoperative
+preop'	preoperative
+PRE-OP	preoperative
+PRE-OPERATVE	preoperative
+PreOPMalitneoplasm	preoperative malignant neoplasm
+PREOPP	preoperative
+PREOPT	preoperative
+preperative	preoperative
+pre-procedure	preprocedure
+pre-quemo	pre-chemotherapy
+presnce	presence
+presnt	present
+pressent	present
+PRESURG	presurgical
+PRE-SYNCOPE	presyncope
+PRE-UP	preoperative
+PREVIOU	previous
+PREVIUOS	previous
+prevous	previous
+PRILIMINARY	preliminary
+Probab e	probable
+Probale	probable
+Probaly	probable
+probble	probable
+Problable	probable
+PROBLE	problem
+PROBLE M	problem
+PROBLRM	problem
+PRODECURE	procedure
+Prodominantly	predominantly
+progresion	progression
+prologation	prolongation
+prololonged	prolonged
+PROLONED	prolonged
+Prolongeed	prolonged
+PROLONGTION	prolongation
+PROLOUGATION	prolongation
+prom inent	prominent
+Pronably	probably
+prononced	pronounced
+PRO-OP	preoperative
+PR-OP	preoperative
+Propable	probable
+propely	propperly
+PROPLONGATION	prolongation
+PROTCOL	protocol
+protein-calorie	protein calorie
+PROTOCAL	protocol
+PRTEOP	preoperative
+PSIN	pain
+PSYCH	psychiatric
+PTOTOCOL	protocol
+PULMONART	pulmonary artery
+PULMUNARY	pulmonary
+PULPITATION	palpitation
+PVC<s	PVCs
+PVC's	PVCs
+PVVC	PVC
+pwave	P wave
+P-wave	p wave
+Pwaves	P waves
+P-waves	p waves
+PYLONEPHRITIS	pyelonephritis
+Questonable	questionable
+Qwaves	Q waves
+RABDOMYLITIS	rhabdomyolysis 
+RAD	right axis deviation
+RAHAB	rehabilitation
+rapind	rapid
+rate=	rate
+Rate-dependent	rate dependent
+rate-related	rate related
+RBBBand	RBBB and
+reactio	reaction
+reasearch	research
+REASPONSE	response
+reating	resting
+RECIEVING	receiving
+RECTALBLEED	rectal bleed
+RECTALBLEEDING	rectal bleeding
+recuest	request
+REEARCH	research
+REEVAL	reevaluate
+RE-EVAL	reevaluate
+refersal	reversal
+REGURFITATION	regurgitation
+REGURG	regurgitation
+REGURGE	regurgitation
+REGURGIATION	regurgitation
+REOVAL	removal
+REPEAT-	repeat
+repesat	repeat
+REPLACEMEN	replacement
+replacewd	replaced
+Replacment	replacement
+replarization	repolarization
+repoarization	repolarization
+repol	repolarization
+REPOLARISATIO	repplarization
+repolarisation	repolarization
+REPOLARISTIPON	repolarization
+repolarizaton	repolarization or
+REPOND	respond
+REPONSE	response
+REPSIRATORY	respiratory
+REPSONSE	response
+requied	required
+RES DESTRESS	respiratory distress
+reseach	research
+resecarch	research
+resech	research
+RESECTI	resection
+reseeach	research
+reseearch	research
+resolviing	resovling
+RESONSE	response
+resovling	resolving
+RESP	respiratory
+RESP DISTRESS	respiratory distress
+RESP FA	respiratory failure
+RESP FAILURE	respiratory failure
+RESPI	respiratory
+respir~	respiration
+RESPIRTORY	respiratory
+RESPOBNSE	response
+RESPOMSE	response
+responae	response
+RESPONDE	response
+RESPONDES	responses
+RESPONE	response
+RESPONES	responses
+RESPONOSE	response
+RESPONSE-	response
+RESPOPNSE	response
+RESPOSE	response
+Ressearch	research
+RESSIDENT	resident
+RESUSITATION	resuscitation
+reversal*	reversal
+reversal****	reversal
+reversed*****	reversed
+reversla	reversal
+reviiwed	reviewed
+REVISISON	revision
+RHABDOMYOLITIS	rhabdomyolosis
+rhhythm	rhythm
+RHTHM	rhythm
+RHTHYM	rhythm
+rhtyhm	rhythm
+rhyhm	rhythm
+rhyhtm	rhythm
+RHYRHM	rhythm
+RHYT	rhythm
+rhyth	rhythm
+RHYTHEM	rhythm
+RHYTHIM	rhythm
+Rhythm-	rhythm
+rhythmm	rhythm
+RHYTHMN	rhythm
+rhythn	rhythm
+RHYTHYM	rhythm
+rhytm	rhythm
+rhytms	rhythms
+rhytthm	rhythm
+RHYTYM	rhythm
+RHYTYMM	rhythm
+RIAGE	triage
+ribon	ribbon
+RIGHT-SIDED	right_sided
+rigth	right
+rirst	first
+RITHM	rhythm
+riule	rule
+rolonged	prolonged
+rotation-	rotation
+rotuine	routine
+ROUGINE	routine
+rouine	routine
+ROUITNE	routine
+ROUTINE-	routine
+routine-best	routine best
+ROUTINE-FLOOR	routine floor
+ROUTINE-POST	routine post
+ROUTNE	routine
+RQUESTED	requested
+rquired	required
+RRIAGE	triage
+R-RPROGRESSION	R wave progression
+RSPONSE	response
+RTHYM	rhythm
+RTIAGE	triage
+RTRIUAGE	triage
+ruleout	rule out
+rule-out	rule out
+RUTINE	routine
+RVOT	right ventricular outflow tract
+R-wave	R waves
+R-waveprogression	R wave progresion
+ryhthm	rhythm
+RYHTHYM	rhythm
+RYMTHM	rhythm
+RYTHEM	rhythm
+RYTHIM	rhythm
+rythm	rhythm
+RYTHMN	rhythm
+RYTHYM	rhythm
+RYTHYMM	rhythm
+SACHYCARDIA	tachycardia
+SCHEMIA	ischemia
+SCHEMIC	ischemic
+screenibg	screening
+SCREENIG	screening
+screnning	screening
+SECOND'	second
+secondar	secondary
+SEEDN	seen
+SEGEMENT	segment
+SEGIMENT	segment
+SEGMAENT	segment
+SEISURE	seizure
+SEISURES	seizures
+SEIZUREES	seizures
+SEMNSED	sensed
+sennsed	sensed
+sensed-	sensed
+sensing-ventricular	sensing ventrcular
+SEOTAL	septal
+SEOZURE	seizure
+SEPSDIS	sepsis
+SETMI	STEMI
+seuqence	sequence
+SEVEREPAIN	severe pain
+SEVERFE	severe
+SEZIURES	seizures
+SEZURES	seizures
+sgnificant	significant
+sholder	shoulder
+SHORNESS	shortness
+SHORTHNESS	shortness
+SHORTNESSOF	shortness of
+SHORTNESSS	shortness
+SICKEL	sickle
+SICKELL	sickle
+Sickle-cell	sickle cell
+SIEZURE	seizure
+SIEZURES	seizures
+signifcant	significant
+signifciant	significant
+SIICIDAL	suicidal
+simulii	stimuli
+sincope	syncope
+singl	single
+sinis	sinus
+SINISITIS	sinusitis
+sino-atrial	sinoatrial
+sinu	sinus
+Sinud	sinus
+SINUSTACHYCARDIA	sinus tachycardia
+SIZZINESS	dizziness
+SLIGHLY	slightly
+sloweer	slower
+SLOWERAND	slower and
+SLURRD	slurred
+SNCOPE	syncope
+sninus	sinus
+SNYCOPE	syncope
+SOB	shortness of breath
+SOBBlood	SOB blood
+SOBCHEST	SOB chest
+SOBWEAKNESS	SOB weakness
+SOECIFIC	specific
+Soinus	sinus
+SOLTALOL	sotolol
+SOLUMEDEROL	solumedrol
+SORTNESS	shortness
+specifc	specific
+specifoic	specific
+spesific	specific
+SPETIC	septic
+SPHINOIDAL	sphenoidal
+spondyloartritis	spondyloarthritis
+sprecific	specific
+STAAT	STAT
+STACH	sinus tachycardia
+stat-	STAT
+STAT-ABDOMINAL	STAT abdominal
+stat-best	STAT best
+stat-ER	STAT ER
+STAT-NUMBNESS	STAT numbness
+STAT-PALPITATIONS	STAT palpitations
+STAT-POST	STAT post
+STAT-RAPID	STAT rapic
+STAT-STATUS	STAT status
+stat-stroke	STAT stroke
+STAT-SYNCOPE	STAT syncope
+STAT-TIA	STAT TIA
+STAT-UTI	STAT UTI
+STchanges	ST changes
+ST-changes	ST changes
+STEM1	STEMI
+STEMCELL	stem cell
+STEMOSIS	stenosis
+STENOIS	stenosis
+STESS	stress
+stgudy	study
+stimulii	stimuli
+stncronous	synchronous
+Streoke	stroke
+STRKE	stroke
+strok	stroke
+STROLE	stroke
+STRROKE	stroke
+ST-Twave	ST-T wave
+stuady	study
+studcy	study
+STUDEN	student
+SUGERY	surgery
+suggwested	suggested
+SUICDAL	suicidal
+SUNCOPE	syncope
+SUPERVENTRICULAR	supraventricular
+supraventicular	supraventricular
+SURERY	surgery
+SURGREY	surgery
+SVERE	severe
+SWEELLING	swelling
+swith	with
+SYCNOPE	syncope
+SYCOPE	syncope
+SYNCAPY	syncope
+synch	synchronized
+SYNCO	sycope
+SYNCO[AL	syncope
+SYNCOP	syncope
+SYNCOPY	syncope
+SYNCPOE	syncope
+syncronous	synchronous
+syncrope	syncope
+synncope	syncope
+SYNOPE	syncope
+SYPTOMATIC	symptomatic
+TAACHYCARDIA	tachycardia
+TACCHY	tachycardia
+TACCHYCARDIA	tachycardia
+tacgycardia	tachycardia
+tachacrdia	tachycardia
+tachcardia	tachycardia
+TACHICARDIA	tachycardia
+TACHICARDIO	tachycardia
+TACHUYCARDIA	tachycardia
+tachy	tachycardia
+tachyacrdia	tachycardia
+TACHYARDIA	tachycardia
+TACHYARRYTHMIA	tachyarrhythmia
+TACHYCA	tachycardia
+tachycadia	tachycardia
+TACHYCADIAC	tachycardia
+tachycaedia	tachycardia
+TACHYCARD	tachycardia
+tachycardfia	tachycardia
+tachycardi	tachycardia
+tachycardiac	tachycardic
+TACHYCARDIDIA	tachycardia
+TACHYCARDIO	tachycardia
+TACHYCARDOA	tachycardia
+tachycardya	tachycardia
+TACHYCARIDIA	tachycardia
+tachycaycardia	tachycardia
+TACHYCCARDIA	tachycardia
+TACHYCHARDIA	tachycardia
+tachycradi	tachycardia
+tachycrdia	tachycardia
+TACHYCRDIC	tachycardia
+TACHYDCARDIA	tachycardia
+TACHYSOB	tachycarida SOB
+TACICARDIA	tachycardia
+TACKYCARDIA	tachycardia
+tacycardia	tachycardia
+tadchycardia	tachycardia
+tansplant	transplant
+TAQUICARDIA	tachycardia
+taxhyxardia	tachycardia
+tchycardia	tachycardia
+techical	technical
+TEIAGE	triage
+TEMPORAY	temporary
+TERIAGE	triage
+TGRIAGE	triage
+THACHY	tachycardia
+THACY	tachycardia
+THERAPUTIC	therapeutic
+THIGHTNESS	tightness
+thigtness	tightness
+THORACOTOTOMY	thoracotomy
+THRUSDAY	Thursday
+thythm	rhythm
+TIAGE	triage
+tifocal	trifocal
+TIGHNESS	tightness
+TIGHTESS	tightness
+TIRAGE	triage
+TITCHING	twitching
+toxic-appearing	toxic appearing
+TR5IAGE	triage
+TRACHARRHYTHMIA	tachyarrhythmia
+TRAGE	triage
+TRAIBGE	triage
+TRAIGA	triage
+trannspla	transplant
+tranp	transplant
+tranplant	transplant
+TRANSEOSOPHAGEAL	transesophageal
+Transfered	transferred
+transp	transplant
+transpl	transplant
+transpla	transplant
+transplaan	transplant
+transplan	transplant
+transplann	transplant
+Transplat	transplant
+TRANS-THORACIC	transthoracic
+TREIAGE	triage
+trgeminy	trigeminy
+TRIAAGE	triage
+TRIABE	triage
+TRIAE	triage
+TRIAEG	triage
+TRIAEGH	triage
+TRIAFGE	triage
+TRIAG	triage
+TRIAGBE	triage
+TRIAGE'	triage
+TRIAGEE	triage
+TRIAGER	triage
+TRIAGEW	triage
+TRIAGFE	triage
+TRIAGHE	triage
+TRIAGR	triage
+TRIAGS	triage
+TRIAGTE	triage
+TRIAHE	triage
+TRIAHGE	triage
+TRIAQGE	triage
+TRIATGE	triage
+TRIEAGE	triage
+TRIGAE	triage
+TRIGE	triage
+trigemny	trigeminy
+TRIIAGE	triage
+trimest~	trimester
+TRIOAGE	triage
+TRIPONIN	troponin
+TRIUAGE	triage
+TROAGE	triage
+TROAHE	triage
+TROIAGE	triage
+TROPININ	troponin
+TROPININS	troponins
+TROPINON	troponin
+TRPILET	triplet
+TRRIAGE	triage
+TRSAIAGE	triage
+TRTIAGE	triage
+TRTUAGE	triage
+TRUIAGE	triage
+tryal	trial
+ttachycardia	tachycardia
+TTRAIGE	triage
+TTRIAGE	triage
+T-wav	T-wave
+Twave	T wave
+T-wave	T wave
+Twaves	T waves
+t-waves	T waves
+udertlying	underlying
+UICIDAL	suicidal
+UINTERAL	unilateral
+unbdetermined	undetermined
+uncjanged	unchanged
+UNCONSIOUS	unconscious
+UNCONTROLED	uncontrolled
+UNCONTROLEED	uncontrolled
+uncreased	increased
+undersening	undersensing
+undtermined	undetermined
+unerlying	underlying
+unreconized	unrecognized
+unspec~	unspecified
+unussual	unusual
+uppe~	upper
+upstoke	upstroke
+URESPONSIVE	unresponsive
+U-wave	U wave
+U-waves	U waves
+V TACH	ventricualr tachycardia
+V TACHY	ventricualr tachycardia
+VAG BLEED	vaginal bleeding
+vaible	viable
+VALUVOPLASTY	valvuloplasty
+VALVUOPLASTY	valvuloplasty
+VALVUPLASTY	valvuloplasty
+varian	variant
+varriant	variant
+VAS ACCESS	vascular access
+VASC ACCESS	vascular access
+VAVULOPLASTY	valvuloplasty
+VCHANGE	change
+VCHANGES	changes
+vengricular	ventricular
+VENT TACHYCARDIA	ventricular tachycardia
+VENTICULAR	ventricular
+ventircular	ventricular
+ventrcular	ventricular
+VENTRICAR	ventricular
+ventriccular	ventricular
+ventricualr	ventricular
+ventricuclar	ventricular
+ventricula	ventricular
+Ventricular-paced	ventricular paced
+ventricular-pacing	ventricular pacing
+ventriculat	ventricuclar
+ventriculatr	ventricular
+ventriculkar	ventricular
+ventriculr	ventricuclar
+ventriuclar	ventricular
+VENT-TACH	ventricular tachycardia
+versusu	versus
+Vertiocal	vertical
+Vertocal	vertical
+V-FIB	ventricular fibrillation
+VOMITTING	vomiting
+VOMOTING	vomiting
+Vpaced	v paced
+V-pacing	ventricular  pacing
+VPC's	ventricular premature contractions
+VT	ventricular tachycardia
+V-TACH	ventricular tachycardia
+V-TACHS	ventricular tachycardia
+V-TACHY	ventricular tachycardia
+V-TACK	ventricular tachycardia
+VTECH	ventricular tachycardia
+V-TECH	ventricular tachycardia
+wabve	wave
+wafve	wave
+WAKNESS	weakness
+WEAAK	weak
+WEAAKNESSS	weakness
+WEAKENESS	weakness
+WEAKENSS	weakness
+WEAKESS	weakness
+WEAKNERSS	weakness
+WEAKNES	weakness
+WEAKNESD	weakness
+WEAKNESSS	weakness
+WEAKNNESS	weakness
+WEAKNSS	weakness
+WEKANESS	weakness
+WEKNESS	weakness
+Wenckebabh	Wenckebach
+Wenckeback	Wenckebach
+Wenckehach	Wenckebach
+Wenkebach	Wenckebach
+WERKNESS	weakness
+whcih	which
+Wilson's	Wilson''s
+withfrequent	with frequent
+withh	with
+withmarked	with marked
+WITHN	within
+withnon-cpturing	with noncapturing
+without~	without
+WITHOUTH	without
+wiyh	with
+wiyth	with
+WOUNF	wound
+WPW	Wolff-Parkinson-White
+yachycardia	tachycardia
+YPOGLYEMIA	hypoglycemia
+ZEISURE	seizure
+?	Questionable 
+aage	age
+abbarrently	aberrantly
+abberancy	aberrancy
+abberant	aberrant
+abberency	aberrancy
+abberent	aberrant
+abbererency	aberrancy
+abberrancy	aberrancy
+abbrently	aberrantly
+aberracy	aberrancy
+aberramtly	aberrantly
+aberrange	aberrance
+aberrantl	aberrantly
+aberrany	aberrant
+aberrency	aberrancy
+aberrent	aberrant
+aberrently	aberrantly
+aberrnat	aberrant
+aberrrant	aberrant
+aberrrantly	aberrantly
+abesent	absent
+abherently	aberrantly
+abnl	abnormal
+abnm	abnormal
+abnom	abnormal
+abnomalities	abnormalities
+abnomality	abnormality
+abnomral	abnormal
+abnomralities	abnormalities
+abnomrality	abnormality
+abnoralities	abnormalities
+abnoramltiy	abnormality
+abnormailties	abnormalities
+abnormailty	abnormality
+abnormaities	abnormalities
+abnormaity	abnormality
+abnormalies	abnormalities
+abnormaliies	abnormalities
+abnormaliites	abnormalities
+abnormaliities	abnormalities
+abnormalilty	abnormality
+abnormalit	abnormality
+abnormaliteis	abnormalities
+abnormalitiess	abnormalities
+abnormalitiessince	abnormalities since
+abnormalitiles	abnormalities
+abnormalitis	abnormalities
+abnormalitites	abnormalities
+abnormalitlies	abnormalities
+abnormalitry	abnormality
+abnormallities	abnormalities
+abnormallity	abnormality
+abnormalq	abnormal Q
+abnormalties	abnormalities
+abnormaltiies	abnormalities
+abnormaltity	abnormality
+abnormaml	abnormal
+abnormility	abnormality
+abnormjality	abnormality
+abnormla	abnormal
+abnormlaities	abnormalities
+abnormlaity	abnormality
+abnormlalities	abnormalities
+abnormlities	abnormalities
+abnormlity	abnormality
+abnornalities	abnormalities
+abnornmality	abnormality
+abnotmalities	abnormalities
+abnovmality	abnormality
+abnr	abnormal
+abnrm	abnormal
+abnrmalities	abnormalities
+abnromal	abnormal
+abnromalities	abnormalities
+abnromality	abnormality
+abonrmality	abnormality
+aborderline	a borderline
+abormal	abnormal
+abormalities	abnormalities
+abormality	abnormality
+abrnormalities	abnormalities
+abrnormality	abnormality
+absen	absent
+absentsince	absence since
+accelarated	accelerated
+acceleartion	acceleration
+acceleratied	accelerated
+accellerated	accelerated
+accelorated	accelerated
+accelration	acceleration
+accentruated	accentuated
+accesory	accessory
+acclerated	accelerated
+accuate	accurate
+acelerated	accelerated
+acriss	across
+afiband	atrial fibrillation and
+aftifact	artefact
+agnormality	abnormality
+aifb	atrial fibrillation
+aitral	atrial
+alomng	along
+altrial	atrial
+amplitde	amplitude
+anaylsis	analysis
+andinferiorleads	and inferior leads
+anerior	anterior
+anormality	abnormality
+anoteroseptal	anteroseptal
+ansd	and
+anteior	anterior
+anteiror	anterior
+antelateral	anterolateral
+antereior	anterior
+anteriorand	anterior and
+anteriorfascicular	anterior fascicular
+anteriorhemiblock	anterior hemiblock
+anteriorl	anterolateral
+anteriorlat	anterolateral
+anterioseptal	anteroseptal
+anteriot	anterior
+anterir	anterior
+anteriro	anterior
+anterlateral	anterolateral
+anteroaical	anteroapical
+anteroalateral	anterolateral
+anteroateral	anterolateral
+anterolat	anterolateral
+anterolateal	anterolateral
+anterolateralinjury	anterolateral injury
+anterolaterl	anterolateral
+anterolaterral	anterolateral
+anteroplateral	anterolateral
+anteropseptal	anteroseptal
+anteror	anterior
+anterorior	anterior
+anterosaptal	anteroseptal
+anteroseptalmi	anteroseptal MI
+anteroseptum	anteroseptal
+anterosetal	anteroseptal
+anterosetpal	anteroseptal
+anterospeptal	anteroseptal
+antieror	anterior
+antior	anterior
+antlat	anterolateral
+antrior	anterior
+aooears	appears
+apacing	atrial pacing
+apced	atrial paced
+apeared	appeared
+apears	appears
+apeeard	appears
+apmplitude	amplitude
+appearsto	appears to
+appeas	appears
+appeasr	appears
+apperas	appears
+appparent	apparent
+appraent	apparent
+apprears	appears
+appreas	appears
+approriate	appropriate
+arenew	are new
+arftifact	artefact
+aritfact	artefact
+aritifact	artefact
+arrhyhtmia	arrhythmia
+arrhythia	arrhythmia
+arrhythma	arrhythmia
+arrtifact	artefact
+arrytthmia	arrhythmia
+artfact	artefact
+artfiact	artefact
+artiact	artefact
+artifacct	artefact
+artifacg	artefact
+artifacgt	artefact
+artifacty	artefact
+artifarct	artefact
+artifcact	artefact
+artifcat	artefact
+artifiact	artefact
+arytmia	arrhythmia
+ASMI	anteroseptal MI
+asnteroseptal	anteroseptal
+asociated	associated
+assoicated	associated
+atach	atrial tachycardia
+atachrvr	atrial tachycardia rapid verntricular rate
+aterior	anterior
+aterolaterally	anterolaterally
+ateroseptal	anteroseptal
+atgrial	atrial
+atifact	artefact
+atirla	atrial
+atnerior	anterior
+atri	atrial
+atriala	atrial
+atrialfibrillation	atrial fibrillation
+atriall	atrial
+atrialllllpacing	atrial pacing
+atrialtach	atrial tachycardia
+atrifact	artefact
+atriial	atrial
+atrrial	atrial
+attemps	attempt
+atyicao	atypical
+atyipical	atypical
+atypcal	atypical
+avblock	c
+axiis	axis
+axisnormal	axis normal
+axix	axis
+axsi	axis
+baeline	baseline
+barnch	branch
+basaeline	baseline
+baseine	baseline
+baselinartifact	basal infarct
+baselinewander	baseline wander
+baselline	baseline
+basleline	baseline
+begiminy	bigeminy
+bentricular	ventricular
+besy	best
+biatral	biatrial
+bifasicular	bifascicular
+bigemany	bigeminy
+bigemini	bigemina
+bigemminy	bigeminy
+bigimenal	bigeminal
+bigmeny	bigeminy
+bigminy	bigeminy
+biphasix	biphasic
+bisicular	bifascicular
+biventicular	biventricular
+biventircular	biventricular
+biventriculaer	biventricular
+bivertricular	biventricular
+bivetricular	biventricular
+bloci	block
+blockand	blocked
+blocke	block
+blockl	block
+blocl	block
+bnormalities	abnormalities
+boerderline	borderline
+bordeerline	borderline
+bordereline	borderline
+borderilne	borderline
+borderine	borderline
+borderlie	borderline
+borderlien	borderline
+borderliine	borderline
+borderlinel	borderline
+borderlinelateral	borderline lateral
+borderlinerepolarization	borderlinere polarization
+borderlinest	borerline ST
+borderling	borderline
+borderlinne	borderline
+borderlins	borderline
+borderlint	borderline
+borderlline	borderline
+borederline	borderline
+bracnh	branch
+bracycardia	bradycardia
+bradycadia	bradycardia
+bradycarddia	bradycardia
+bradycardiavs	bradycardia versus
+branh	branch
+brderline	borderline
+bunmdle	bundle
+cahange	change
+cahnge	change
+canot	cannot
+capre	captured
+caprtured	captured
+ccnsistent	consistent
+ccompared	compared
+chaange	change
+chages	changes
+chamer	chamber
+chanegs	changes
+chanes	changes
+changeds	changed
+changesare	changes are
+changess	changes
+changessince	changes since
+chanmber	chamber
+chaotoc	chaotic
+chmnages	changes
+chnaged	changed
+citeria	criteria
+clinicalcorrelation	clinical correlation
+cmopared	compared
+cmpared	compared
+cnnot	cannot
+cnsider	consider
+coinsider	consider
+comapred	compared
+comduction	conduction
+comlex	complex
+commpared	compared
+compaed	compared
+compaerd	compared
+compaex	complex
+compard	compared
+compatable	compatible
+compated	compared
+compered	compared
+competetive	competitive
+compex	complex
+comple	complex
+compleses	complexes
+complexe	complexes
+complexees	complexes
+complexers	complexes
+complext	complex
+compltexes	complexes
+compolete	complete
+componed	composed
+componenet	component
+componet	component
+componets	components
+compraed	compared
+comprared	compared
+compred	compared
+compsared	compared
+compsred	compared
+concering	concerning
+concernign	concerning
+concomitnat	concomitant
+condiser	consider
+condsier	consider
+conduciton	conduction
+conductes	conducted
+conductio	conduction
+conductionn	conduction
+condution	conduction
+conisder	consider
+conisider	consider
+conisitent	consistent
+conistent	consistent
+connduction	conduction
+conplexes	complexes
+consder	consider
+consduction	conduction
+consecutuve	consecutive
+consideer	consider
+considrably	considerably
+consieder	consider
+consipicuous	conspicuous
+consisent	consistent
+consisteent	consistent
+consisten	consistent
+consistern	consistent
+consitent	consistent
+consitently	consistently
+consuction	conduction
+contracitons	contractions
+contractiosn	contractions
+conucted	conducted
+convertred	converted
+coonsider	consider
+copared	compared
+coplex	complex
+coplexes	complexes
+copnsider	consider
+correcgted	corrected
+correlationand	correlation and
+cosnider	consider
+cosnsitent	consistent
+covincing	convincing
+cpnsider	consider
+creteria	criteria
+crieria	criteria
+crietria	criteria
+critereia	criteria
+critieria	criteria
+critria	criteria
+crtieria	criteria
+cungruent	congruent
+curent	current
+dccv	DC cardioversion
+dealy	delay
+dealyed	delayed
+deayed	delayed
+deccreased	decreased
+decreaed	decreed
+decreaesd	decreased
+decreasd	decrease
+decreasedince	decreased since
+decreaseed	decreased
+decresaed	decreased
+decresed	decreased
+deecreased	decreased
+defibulator	defibrillator
+deleayed	delayed
+deminished	diminished
+demostrating	demonstrating
+depreesion	depression
+depresseion	depression
+deression	depression
+derrangement	derangement
+devation	deviation
+deveation	deviation
+deviaion	deviation
+deviaition	deviation
+deviaiton	deviation
+deviatin	deviation
+deviatinon	deviation
+deviationn	deviation
+devistion	deviation
+devitaion	deviation
+devition	devotion
+dextrocadia	dextrocardia
+dgree	degree
+dialtion	dilation
+diesase	disease
+difffuse	diffuse
+diffise	diffuse
+diffisely	diffusely
+diffiuse	diffuse
+diffue	diffuse
+diffues	diffuse
+diffus	diffuse
+diffusel	diffuse
+diffuseleads	diffuse leads
+diffusest	diffuse ST
+diffuset	diffuse T
+diffusse	diffuse
+difuse	diffuse
+diminuative	diminutive
+dissociates	dissociated
+dlateral	lateral
+dnlargement	enlargement
+downard	downward
+dperessions	depressions
+dpression	depression
+driteria	criteria
+duation	duration
+duffuse	diffuse
+dynaic	dynamic
+eaely	early
+ealds	leads
+ealy	early
+earlly	early
+earlybrepolarization	early repolarization
+eary	early
+eatach	ectopic atrial tachycardia
+ebsteins	Ebstein''s
+ebtter	better
+eclude	exclude
+ecopty	ectopy
+ecopy	ectopy
+ecto0y	ectopy
+ectop	ectopy
+ectopica	ectopic
+ectopicatrial	ectopic atrial
+ectopinc	ectopic
+ectopipc	ectopic
+ectopoy	ectopy
+ectopty	ectopy
+ectopyh	ectopy
+ectoy	ectopy
+ectpy	ectopy
+ectremity	extremity
+ectropy	ectopy
+ecxg	ecg
+eince	since
+ekgon	ekg on
+elads	leads
+eleavation	elevation
+electical	electrical
+electri	electric
+eleevation	elevation
+elev	elevation
+elevartion	elevation
+elevateion	elevation
+elevatio	elevation
+elevatiosn	elevation
+elevatoin	elevation
+elevaton	elevator
+elevcation	elevation
+elevtion	election
+enalrgement	enlargement
+enew	new
+epression	expression
+eraly	early
+eroneous	erroneous
+escapel	escape
+escapew	escape
+escapr	escape
+escpae	escape
+etopy	ectopy
+evdent	evident
+eveident	evident
+evelation	elevation
+eveloped	developed
+evolutio	evolution
+ewolevation	elevation
+excluse	exclude
+exclused	excluded
+exclute	exclude
+exict	exact
+exlcude	exclude
+exlcuded	excluded
+extermitry	extremity
+extopic	ectopic
+extopy	ectopy
+extraordanarily	extraordinarily
+extraordinarilly	extraordinarily
+extreminty	extremity
+extremityh	extremity
+exxclude	exclude
+faililng	failing
+falttening	fattening
+fariable	variable
+fascicula	fascicular
+fasculoventricular	fasciculoventricular
+fequent	frequent
+fibr	fiber
+fibrillaiton	fibrillation
+fibrillaltion	fibrillation
+fibrillarion	fibrillation
+fibrillartion	fibrillation
+fibrillatin	fibrillation
+fibrillatino	fibrillation
+fibrillatio	fibrillation
+fibrillationhas	fibrillation has
+fibrillationu	fibrillation
+fibrillatoin	fibrillation
+fibrillattioon	fibrillation
+fibrilllation	fibrillation
+fibrilltaion	fibrillation
+fibrllation	fibrillation
+fibrullation	fibrillation
+findingsare	findings are
+findingssince	findings since
+finrillation	fibrillation
+firillation	fibrillation
+firsdt	first
+flalter	flatter
+flatening	flattening
+flattented	flattened
+flatterning	flattering
+flatttening	flattening
+fllutter	flutter
+fluter	flutter
+flutterwith	flutter with
+followe	follow
+forbiventricular	for biventricular
+forcs	force
+forlvh	for left ventricular hypertrophy
+forst	first
+fources	forces
+freqent	frequent
+frequet	frequent
+froces	forces
+furrther	further
+geater	greater
+greated	greater
+greatrer	greater
+gwith	with
+haeart	heart
+hemiblcok	hemiblock
+hperkalemia	hyperkalemia
+hubctional	functional
+hyperecalcemia	hypercalcemia
+hyperkalamia	hyperkalaemia
+hyperterophic	hypertrophic
+hypertophy	hypertrophy
+hypertroophy	hypertrophy
+hypertroph	hypertrophy
+hypertrophys	hypertrophy
+hypertropy	hypertrophy
+hypertrphy	hypertrophy
+hypetrophy	hypertrophy
+hyptrophy	hypotrophy
+i9schemia	ischemia
+ianterolateral	anterolateral
+ibbb	incomplete right bundle branch block
+ichemia	ischemia
+iconsider	consider
+idioventrcular	idioventricular
+ievident	evident
+iincomplete	incomplete
+iindex	index
+iinfarct	infarct
+ilbbb	incomplete right bundle branch block
+imferior	inferior
+impoved	improved
+improprer	improper
+improvd	improve
+imptroved	improved
+inafarct	infarct
+inarct	infarct
+inceased	increased
+incomp	incomplete
+incrased	increased
+increaed	increased
+increasd	increased
+increasded	increased
+incresad	increased
+incresed	increased
+inderminate	indeterminate
+inderterminate	indeterminate
+indeteminent	indeterminant
+indeterm	indeterminate
+indetermiante	indeterminate
+indeterminaate	indeterminate
+indeterminante	indeterminate
+indetermine	indeterminate
+indeterminent	indeterminate
+indeterminzte	indeterminate
+indetermitate	indeterminate
+indexd	indeed
+indez	index
+indioventricular	idioventricular
+inermittently	intermittently
+inerpretiaon	inerpretation
+infacrt	infarct
+infaerct	infarct
+infarcgt	infarct
+infarcrt	infarct
+infarcrtion	infarction
+infarctst	infarct st
+infart	infarct
+infartc	infarct
+infeior	inferior
+infeolateral	inferolateral
+infereior	inferior
+infereolateral	inferolateral
+infereres	interferes
+inferiolatateral	inferolateral
+inferiolateral	inferolateral
+inferioposterior	inferoposterior
+inferiorinfarct	inferior infarct
+inferiorlateral	inferolateral
+inferioseptal	inferoseptal
+inferiro	inferior
+inferlateral	inferolateral
+inferlolateral	inferolateral
+inferolater	inferolateral
+inferolatera	inferolateral
+inferolaterals	inferolateral
+inferolaterl	inferolateral
+inferoopsterior	inferoposterior
+inferoposterio	inferoposterior
+inferor	inferior
+inferposterior	inferoposterior
+inferrolateral	inferolateral
+inferropoeaterior	inferoposterior
+infersion	inversion
+infqrct	infarct
+infreior	inferior
+infrnodal	infranodal
+infweior	inferior
+inhibittion	inhibition
+inhibtion	inhibition
+initerval	interval
+injurhy	injury
+innferolateral	inferolateral
+innversion	inversion
+inomplete	incomplete
+inreased	increased
+inschemia	ischemia
+insteads	instead
+intemittent	intermittent
+interal	internal
+intercal	internal
+interdeterminate	indeterminate
+interferrence	interference
+intermirttentsupraventricular	intermirttent supraventricular
+intermitant	intermittent
+intermitent	intermittent
+intermitteltly	intermittently
+intermitten	intermittent
+internittent	intermittent
+interolateral	anterolateral
+interoretation	interpretation
+interpet	interpret
+interpetation	interpretation
+interpreation	interpretation
+interprentation	interpretation
+interpretatoin	interpretation
+interpretion	interpretation
+interpretntation	interpretation
+interterminant	intermittent
+interva	interval
+intervaland	interval and
+intervdal	interval
+interventicular	intraventricular
+intervetnricular	intraventricular
+intervions	interventions
+intervls	intervals
+intiial	initial
+intrarventricular	intraventricular
+intravenettricular	intraventricular
+intraventicular	intraventricular
+intraventrciular	intraventricular
+intraventricualr	intraventricular
+intraventriculaar	intraventricular
+intraventriular	intraventricular
+intreptation	interpretation
+intrinisic	intrinsic
+intrpretation	interpretation
+intrval	interval
+intvls	intervals
+inverion	inversion
+inverrted	inverted
+inversinos	inversions
+inversio	inversion
+inversiom	inversion
+inversionn	inversion
+inversionsince	inversion since
+inversis	inversus
+inversoin	inversion
+invertedsince	inverted since
+invrsions	invasions
+irbb	incomplete right bundle branch block
+irrecular	irregular
+irregurlar	irregular
+ischeia	ischemia
+ischema	ischemia
+ischemialvh	ischemia left ventricular hypertrophy
+ischemianow	ischemia now
+ischemima	ischemia
+ischemka	ischemia
+ischmia	ischemia
+ischmic	ischemic
+isfchemia	ischemia
+ishcemia	ischemia
+ishemia	ischemia
+isnew	is new
+isoated	isolated
+isolectric	isoelectric
+isolted	isolated
+iterpretation	interpretation
+itnerval	interval
+iversion	inversion
+ivxcd	intraventricular conduction delay
+iwth	with
+jucnctional	junctional
+juctional	junctional
+juinctional	junctional
+juncitonal	junctional
+juncntional	junctional
+junctinoal	junctional
+junctiona	junctional
+junctionsl	junctions
+juntional	junctional
+jxnal	junctional
+LAA	left atrial abnormality
+LAE	left atrial enlargement
+lareral	lateral
+latearl	lateral
+lateraland	lateral and
+lateraly	laterally
+laterl	lateral
+latreral	lateral
+LDS	leads
+leades	leads
+leaed	lead
+leafd	lead
+leaft	left
+leards	leads
+leeads	leads
+leess	less
+lefft	left
+leftatrial	left atrial
+leftaxis	left axis
+leftwards	leftward
+leftwared	leftward
+lefward	leftward
+lelads	leads
+lenghtened	lengthened
+lengthend	lengthened
+lengthended	lengthened
+leqds	leads
+lesss	less
+liimts	limits
+likdly	likely
+likelyl	likely
+limbl	limb
+limd	limb
+limg	limb
+limib	limb
+limites	limited
+lkiely	likely
+lleads	leads
+lleft	left
+loarge	large
+logner	longer
+lomb	long
+lonegr	longer
+longeer	longer
+longers	longer
+longert	longer
+lonnger	longer
+lowere	lower
+lowrr	lower
+LPFB	left posterior fascicular block
+lphb	left posterior hemiblock
+lrhythm	rhythm
+lsensed	sensed
+lteral	lateral
+lvcd	left ventricular condution delay
+lvot	left ventricular outflow track
+mareked	marked
+markely	markedly
+meachanism	mechanism
+metabollic	metabolic
+midprecodium	midprecordium
+midprecroridal	midprecordial
+mildy	mild
+mimicing	mimicking
+minial	minimal
+minimial	minimal
+minimumu	minimum
+minornonspecific	minor nonspecific
+minues	minutes
+miplaced	misplaced
+mispacement	misplacement
+misplacemet	misplacement
+misplcement	misplacement
+moare	more
+mobtiz	Mobitz
+montion	mention
+mored	more
+morpholog	morphology
+morpohology	morphology
+morpology	morphology
+mproved	improved
+mulitple	multiple
+multipe	multiple
+multipel	multiple
+multipleatrial	multiple atrial
+multple	multiple
+mutiple	multiple
+mutlifocal	multifocal
+mutliple	multiple
+myopath	myopathy
+narror	narrow
+narroww	narrow
+naterior	anterior
+nbow	now
+ncreased	increased
+nechanism	mechanism
+njury	injury
+nmew	new
+noew	now
+nolonger	no longer
+nomalized	normalized
+nondiagnosgic	nondiagnostic
+nondiagnosic	nondiagnostic
+nonidagnostic	nondiagnostic
+nonospecific	nonspecific
+nonpecific	nonspecific
+nonscpecific	nonspecific
+nonsepcific	nonspecific
+nonsinus	non-sinus
+nonspecifc	nonspecific
+nonspecifict	nonspecific
+nonspecifit	nonspecific
+nonspeciifc	nonspecific
+nonspeciific	nonspecific
+nonspeicifc	nonspecific
+nonspeific	nonspecific
+nontranmural	nontransmural
+noraml	normal
+normaized	normalized
+normaliized	normalized
+normallized	normalized
+normalzed	normalized
+normla	normal
+normsl	normal
+norrmal	normal
+nospecific	nonspecific
+notd	noted
+noteed	noted
+notmal	normal
+nowpresent	now present
+npattern	pattern
+nrmalized	normalized
+nsicvd	nonspecific intraventricular conduction delay
+nsivcd	nonspecific intraventricular conduction delay
+nsst	nonspecific st
+nsstt	nonspecific st t
+nssttwc	nonspecific st t wave changes
+nssttws	nonspecific st t wave changes
+nstt	nonspecific st t
+nsttw	nonspecific st t wave
+nstw	nonspecific t wave
+nterior	interior
+nteroseptal	anteroseptal
+ntoed	noted
+ocasional	occasional
+occaisonal	occasional
+occasioanl	occasional
+occasiona	occasional
+occassionally	occasional
+occassionl	occasional
+occcasional	occasional
+occlu	occlude
+occsasional	occasional
+ocnducted	conducted
+ompared	compared
+onospecific	monospecific
+onrmal	normal
+oppsosed	opposed
+orderline	borderline
+originr	origin
+orign	origin
+osition	position
+osterior	posterior
+otherwis	otherwise
+othewise	otherwise
+othewrise	otherwise
+othr	other
+othrewise	otherwise
+pacedl	paced
+pacign	pacing
+pacigng	pacing
+pacin	pacing
+pacinf	pacing
+pacingis	pacing is
+pacings	pacing
+pacingsince	pacing since
+pacinng	pacing
+pafib	paroxysmal atrial fibrillation
+paing	pacing
+paramters	parameters
+paremeters	parameters
+pateint	patient
+patteern	pattern
+pattery	pattern
+pcing	pacing
+pcvs	premature ventricualr contractions
+pecordial	precordial
+peformed	performed
+peominent	prominent
+percordial	precordial
+perhaos	perhaps
+pericafrditis	pericarditis
+pericardiitis	pericarditis
+pericardits	pericarditis
+pericareditis	pericarditis
+pericrditis	pericarditis
+perissts	persists
+peronounced	pronounced
+persent	present
+persiste	persistent
+persisten	persistent
+pfesent	present
+phneomenon	phenomenon
+piror	prior
+placemen	placement
+placemet	placement
+placemetn	placement
+placemnet	placement
+placenent	placement
+placent	placement
+placewment	placement
+placment	placement
+plaecment	placement
+plascment	placement
+pleacement	placement
+plscement	placement
+pobable	probable
+pogression	progression
+pominent	prominent
+pooor	poor
+poort	poor
+porbable	probable
+porgression	progression
+porlongation	prolongation
+porminent	prominent
+posbily	possibly
+posibly	possibly
+possbile	possible
+possble	possible
+possib	possible
+possibel	possible
+possiblelvh	possible left ventricular hypertrophy
+possibletracing	possible tracing
+possibley	possible
+possiby	possibly
+possiible	possible
+possilbe	possible
+possinle	possible
+posslbe	possibe
+posssible	possible
+posssibly	possibly
+posteiror	posterior
+pprobably	probably
+prabable	probable
+prbably	probably
+prcordial	precordial
+preamture	premature
+precence	presence
+precodial	precordial
+precordially	precordial
+precordiam	precordial
+precorial	precordial
+precortial	precordial
+predominanly	predominantly
+predominantvariable	predominant variable
+predominently	predominantly
+preecitation	preexcitation
+preent	present
+preexcitations	preexcitation
+preexcitatoin	preexcitation
+prematue	premature
+prematuer	premature
+presdent	present
+presednt	present
+preseent	present
+presen	present
+presenntn	present
+presentg	presenting
+presentin	presenting
+presenty	presently
+presesnt	present
+presetn	present
+presetna	present
+presetnt	present
+presnet	present
+presordial	precordial
+presrent	present
+preswent	present
+previoius	previous
+previosly	previously
+previosu	previous
+previouslt	previously
+previoust	previous
+prevvious	previous
+prexcitation	preexcitation
+prgression	progression
+pricordial	primordial
+prio	prior
+priolr	prior
+priominent	prominent
+priorafib	prior atrial fibrillation
+priord	prior
+priorecg	prio ECG
+priort	prior
+priortracing	prior tracing
+priot	prior
+prir	prior
+priro	prior
+priror	prior
+prlongation	prolongation
+prlonged	prolonged
+proabable	probable
+proable	probable
+proably	probably
+probabble	probable
+probabel	probable
+probabke	probable
+probablejunctional	probable junctional
+probableventricular	probable ventricular
+probablre	probable
+probalbe	probable
+probalby	probably
+probbale	probable
+probbaly	probably
+probbly	probably
+problonged	prolonged
+probzbly	probably
+procordial	precordial
+progeression	progression
+progession	profession
+progresision	progression
+progressio	progression
+progressionm	progression
+progresssion	progression
+progresstion	progression
+progrssion	progression
+proiment	prominent
+proiminent	prominent
+prologed	prolonged
+prololnged	prolonged
+prolonation	prolongation
+prolond	prolong
+prolongaton	prolongation
+prolongedand	prolonged and
+prolponged	prolonged
+promenent	prominent
+proment	prominent
+promiennt	prominent
+promient	prominent
+promiment	prominent
+promimnent	prominent
+prominant	prominent
+prominenrt	prominent
+prominentq	prominent q
+prominet	prominent
+promonent	prominent
+pronlonged	prolonged
+pronoonuced	pronounced
+pronouced	pronounced
+pronoucned	pronounced
+pronouned	pronounced
+prorgession	progression
+prorgression	progression
+proxlad	proximla left anterior descending
+proxrca	proximal right coronary artery
+prrior	prior
+prsent	present
+psince	since
+psuedofusion	pseudofusion
+pthjway	pathway
+qrss	QRS
+qtinterval	Q interval
+qtremains	QT remains
+quadrageminy	quadrigeminy
+quadrugemini	quadrigeminy
+RAA	right atrial abnormality
+raet	rate
+rapis	rapid
+rarre	rare
+raster	faster
+ratehas	rate has
+rateis	rate is
+ratre	rare
+reamains	remains
+reaplaces	replaces
+reccent	recent
+recentn	recent
+reciprocald	reciprocal
+recordial	precordial
+redcuced	reduced
+reflecrt	reflect
+relaced	replaced
+relted	related
+remians	remains
+reolaced	replaced
+reolarization	repolarization
+reolved	resolved
+reoplarization	repolarization
+repaces	replaces
+repalced	replaced
+repalces	replaces
+repat	repeat
+repititive	repetitive
+replacd	replace
+repladced	replaced
+replaecd	replaced
+replaed	replaced
+replaved	replaced
+replced	replaced
+repllaces	replaces
+reploarization	repolarization
+reploarlization	repolarization
+reploeration	repolarization
+replolarization	repolarization
+replorizaion	repolarization
+replorization	repolarization
+repoalrization	repolarization
+repolaization	repolarization
+repolariation	repolarisation
+repolariazation	repolarization
+repolarition	repolarisation
+repolarixzation	repolarization
+repolarizafion	repolarization
+repolarizagtion	repolarization
+repolarizaiton	repolarization
+repolarizatin	repolarization
+repolarizationand	repolarization and
+repolarizatoin	repolarization
+repolarizatrion	repolarization
+repolariztion	repolarization
+repolarlization	repolarization
+repolartization	repolarization
+repolarzation	repolarization
+repolatrization	repolarization
+repoleration	repolarzation
+repoliriation	repolarzation
+repolirization	repolarization
+repoloarization	repolarization
+repololarization	repolarization
+repolorization	repolarization
+repolrization	repolarization
+repolzarization	repolarization
+reporlarization	repolarization
+represeent	represent
+resolvedd	resolved
+resolvede	resolved
+resolveed	resolved
+resopnse	response
+resoved	resolved
+resovled	resolved
+respnse	response
+respons	response
+restred	restored
+retropect	retrospect
+reveral	reversal
+reveresed	reversed
+rfesolved	resolved
+rhryhm	rhythm
+rhthyhm	rhythm
+rhtyhmand	rhythm and
+rhtym	rhythm
+rhtythm	rhythm
+rhyhthm	rhythm
+rhyrhtm	rhythm
+rhythhm	rhythm
+rhythmi	rhythm
+rhythmis	rhythmic
+rhythmsince	rhythm since
+righhtward	rightward
+rightaxisdeviation	right axis deviation
+rightbundle	right bundle
+rightrward	rightward
+rightwards	rightward
+rightword	rightward
+righward	rightward
+rigtht	right
+rigthward	rightward
+rigtward	rightward
+rior	prior
+roplaced	replaced
+rpeolarization	repolarization
+rpior	prior
+rpolarization	repolarization
+rrate	rate
+rrght	right
+rright	right
+rsolved	resolved
+rthythm	rhythm
+rtracing	tracing
+rvcd	right ventricular conducton delay
+rwave	R wave
+rythum	rhythm
+secdonary	secondary
+secnd	send
+secodnary	secondary
+seconary	secondary
+secondarly	secondary
+seconday	secondary
+secondry	secondary
+sefment	segment
+segements	segments
+sequentally	sequentially
+sequentian	sequential
+setpal	septal
+severeal	several
+sggested	suggested
+shfted	shifted
+shievering	shivering
+shifed	shifted
+shiftedsince	shifted since
+shiftred	shifted
+shiifted	shifted
+shortenend	shortened
+shorterned	shortened
+shortersince	shorter since
+sicne	since
+sigificant	significant
+siginficant	significant
+signficant	significant
+signficantly	significantly
+signficiant	significant
+signfiicant	significant
+signfiicantly	significantly
+signicant	significant
+signif	signficicant
+significan	significant
+significanty	significantly
+significatn	significant
+significnat	significant
+significnt	significant
+signiifcant	significant
+sihift	shift
+siince	since
+siinus	sinus
+siknus	sinus
+simiilar	similar
+simmilar	similar
+sinced	since
+sinceprior	since prior
+sincr	since
+sincwe	since
+sinificant	significant
+sinius	sinus
+sinnus	sinus
+sinous	sinus
+sinse	since
+sinsu	sinus
+sinsus	sinus
+sinua	sinus
+sinuds	sinus
+sinue	since
+sinusbradycardia	sinus bradycardia
+sinusl	sinus
+sinusn	sinus
+sinusrhythm	sinus rhythm
+sinve	since
+sinys	sinus
+sius	sinus
+slighlty	slightly
+slightlly	slightly
+sligtly	slightly
+sliight	slight
+sllightly	slightly
+slowerd	slower
+slowert	slower
+slowr	slower
+slowre	slower
+slwer	slower
+smaler	smaller
+smallersince	smaller since
+snce	since
+snice	since
+solwer	slower
+sonsistent	consistent
+specfic	specific
+specifict	specific
+specitic	specific
+speficific	specific
+spke	spike
+spt	since prior tracing
+srhythm	rhythm
+stabnormalities	abnormalities
+stdepression	st depression
+stelevation	st elevation
+strial	atrial
+stttw	st t wave
+sttw	st t wave
+sttws	st t waves
+studythe	study the
+subendo	subendocardial
+subendocadial	subendocardial
+subenodcardial	subendocardial
+sublte	subtle
+subooptimal	suboptimal
+subotimal	suboptimal
+suerior	superior
+sugest	suggest
+sugestive	suggestive
+sugges	suggest
+suggesive	suggestive
+suggestie	suggestive
+suggestitve	suggestive
+suggestve	suggestive
+suggeted	suggested
+suggetive	suggestive
+supereior	superior
+superiior	superior
+superiorlateral	superolateral
+superor	superior
+supraven	supraventricular
+supraventircular	supraventricular
+supraventricuar	supraventricular
+supraventricularrhythm	supraventricular rhythm
+supraventricylar	supraventricular
+supraventriuclar	supraventricular
+suprior	superior
+supsect	suspect
+susepct	suspect
+suspcious	suspicious
+suspct	suspect
+suspectl	suspect
+suspicous	suspicious
+sychronous	synchronous
+symetrical	symmetrical
+symmentrical	symmetrical
+symmertric	symmetric
+synchoronous	synchronous
+tabasubo	Takotsubo
+tabnorm	T abnormal
+tabnormalites	T abnormalities
+tabnormalities	T abnormalities
+tachcyardia	tachycardia
+tachcyaria	tachycardia
+tachycar5dia	tachycardia
+tachycarda	tachycardia
+tachycardial	tachycardia
+tachycardiavs	tachycardias
+tachycarduia	tachycardia
+tachycaria	tachycardia
+tachycaric	tachycardic
+tachycarida	tachycardia
+tachycarrdia	tachycardia
+tachyycardia	tachycardia
+tacing	tracing
+takasubo	Takotsubo
+tarcing	tracing
+tatrial	atrial
+termainal	terminal
+termina	terminal
+theqt	the QT
+therate	the rate
+therehas	there has
+througout	throughout
+thryhm	rhythm
+thye	they
+thyrhm	rhythm
+tinyu	tiny
+traccing	tracing
+trachycardia	tachycardia
+tracig	tracing
+tracign	tracing
+traciing	tracing
+tracin	tracing
+tracingdue	traing due
+tracingectopic	tracing ectopic
+tracingl	tracing
+tracingm	tracing
+tracingpr	tracing
+tracingrate	tracing rate
+tracingthe	tracing the
+tracng	tracing
+traicing	tracing
+traicng	tracing
+tranistion	transition
+transiation	transition
+transiton	transition
+transtion	transition
+transtition	transition
+trasition	transition
+traving	tracing
+traxing	tracing
+trifasicular	trifascicular
+trigemany	trigeminy
+trigemminy	trigeminy
+trigenimy	trigeminy
+trracing	tracing
+tshifted	shifted
+tsince	since
+ubderlying	underlying
+ubfarct	infarct
+uchanged	unchanged
+umchanged	unchanged
+umnchanged	unchanged
+unble	unable
+uncerrtain	uncertain
+uncertan	uncertain
+unchaged	unchanged
+unchan	unchanged
+unchaned	unchanged
+unchangd	unchanged
+unchange	unchanged
+unchnaged	unchanged
+unchnged	unchanged
+undelying	underlying
+underlyng	underlying
+underying	underlying
+undeteremined	undetermined
+undetermikned	undetermined
+undetermkned	undetermined
+undewent	underwent
+uniterpretable	uninterpretable
+unkchanged	unchanged
+unmchanged	unchanged
+uprgiht	upright
+uprgith	upright
+vairant	variant
+varaiant	variant
+varaint	variant
+vardiable	variable
+varible	variable
+varient	variant
+varriable	variable
+vccompared	compared
+VCD	ventricular conduction delay
+vcompared	compared
+vdentricular	ventricular
+vdiffuse	diffuse
+venctricular	ventricular
+venricular	ventricular
+venrticular	ventricular
+ventrciarul	ventricular
+ventrciular	ventricular
+ventrficular	ventricular
+ventricdular	ventricular
+ventriclar	ventricular
+ventriclarly	venticularly
+ventricluar	ventricular
+ventricuilar	ventricular
+ventriculal	ventricular
+ventricularly	venticularly
+ventricularpremature	ventricular premature
+ventricullar	ventricular
+ventricuular	ventricular
+ventriicular	ventricular
+ventrilcular	ventricular
+ventriular	ventricular
+ventrivcular	ventricular
+ventrricular	ventricular
+ventrular	ventricular
+verntricular	ventricular
+vertial	vertical
+vetnricular	ventricular
+vetricular	ventricular
+vevolving	evolving
+volatage	voltage
+volatages	voltages
+volatge	voltage
+volatges	voltages
+volgtage	voltage
+volltage	voltage
+voltagde	voltage
+voltge	voltage
+votage	voltage
+vpacing	ventricular pacing
+vpbs	ventricular premature beats
+vpcc	ventricular premature complex
+vpcs	ventricular premature complexes
+vtac	ventricular tachycardia
+vultage	voltage
+vvcompared	compared
+vventricular	ventricular
+wavce	wave
+waveinversion	wave inversion
+wavesin	waves in
+wavesl	waves
+wavess	waves
+wavew	waves
+wavs	waves
+wavss	waves
+wavw	wave
+wavybaseline	wavy baseline
+wenchebach	Wenckebach
+wencheback	Wenckebach
+wenckabach	Wenckebach
+wenckbach	Wenckebach
+withhin	within
+withintermittent	with intermittent
+withprior	with prior
+withs	with
+witih	with
+witn	with
+wityh	with
+wkth	with
+wvae	wave
+wvaes	waves
+wves	waves
+wwave	wave
+wwtih	with
+SR	sinus rhythm
+a.fib	atrial fibrillation
+AVB	atriovenricular block
+STE	ST elevation
+AF/AFL	atrial fibrillation/atrial flutter
+AFL	atrial flutter
+Afb	atrial fibrillation
+AMI	anterior myocardial infarction
+APB	atrial premature complex
+atrial premature beat	atrial premature complex
+atrial premature beats	atrial premature complexes
+atrial premature contraction	atrial premature complex
+atrial premature contractions	atrial premature complexes
+HCM	hypertrophic cardiomyopathy
+IMI	inferior myocardial infarction
+WCT	Wide-QRS tachycardia
+VTACH	ventricular tachycardia
+ALMI	anterolateral myocardial infarction
+vpc	ventricular premature complex
+vpbs	ventricular premature complexes
+tw	t wave
+twi	t wave inversion
+SVT	supraventricular tachycardia
+STD	ST depression
+RVH	right ventricular hypertrophy
+RV	right ventricle
+rbb	right bundle branch
+rw	R wave
+abl	abnormal
+abn	abnormal
+RAE	right atrial enlargement
+P-R	PR
+tach	tachycardia
+ANT-LAT	anterolateral
+ANT-SEPT	anteroseptal
+COMPLXS	complexes
+INF-LAT	inferolateral
+SUPRAVENT	supraventricular
+PREDOM	predominantly
+A-NONCAPT	atrial noncapture
+A-RATE	atrial rate
+V-Rate	ventricular rate
+prog	progression
+SL S2 S3	S1 S2 S3
+ASD	atrial septal defect
+CNS	central nervous system
+a-tach	atrial tachycardia
+antero-laterallly	anterolaterally
+hemi-block	hemiblock
+infero-laterally	inferolaterally
+interprete	interpret
+NORTH-WEST	northwest
+right-ward	rightward
+pre-exictation	preexcitation
+thru-out	throughout
+similiar	similar
+sub-optimal	suboptimal
+NSTWI	non-ST wave myocardial infarction
+Q-wave	Q wave
+Q-waves	Q waves
+A-activity	atrial activity
+ST-ELEVATIONS	ST elevations
+age-indeterminant	age-indeterminate
+BiV-Paced	biventricular-paced
+discernable	discernible
+chage	change
+interprete	interpret
+IVDCD	intraventricular conduction delay
+non-capture	noncapture
+pre-excited	preexcited
+RVICD	right ventricular intraventricular conduction delay
+RV-ICD	right ventricular intraventricular conduction delay
+R-waves	R waves
+non-diagnostic	nondiagnostic
+rhythmrhythm	rhythm
+R-progression	R wave progression
+repsent	represent
+T-abnormalities	T abnormalities
+wanter	wander
+AP-VS	atrial-paced ventricular-sensed
+AS-VP	atrial-sensed ventricular-paced
+limb-leads	limb leads
+counter-clockwise	counterclockwise
+shoft	shift
+atrial-pacing	atrial pacing
+free-wall	free wall
+S-wave	S wave
+abberntly	aberrantly
+A-BiV	atrial-biventricular
+afib-flutter	atrial fibrillation atrial flutter
+AF-RVR	atrial ibrillation rapid ventricular rate
+anterior-lat	anterolateral
+anterior-septal	anteroseptal
+antero-lat	anterolateral
+antero-laterally	anterolaterally
+anterolateralT-wave	anterolateral T wave
+antero-septal	anteroseptal
+ant-lateral	anterolateral
+ant-septal	anteroseptal
+a-pacng	atrial pacing
+A-PAED	atrial paced
+A-pasing	atrial pacing
+apico-lateral	apicolateral
+A-sense	atrial sensed
+A-sensed	atrial sensed
+A-sensing	atrial sensing
+ASMMI	anteroseptal myocardial infarction
+atrially-paced	atrial-paced
+atrial-sensing	atrial-sensing
+atria-sensed	atrial-sensed
+Atrila-Ventricular	atrioventricular
+atypical-appearing	atypical appearing
+back-up	backup
+bi-atrial	biatrial
+bi-phasic	biphasic
+BiVentricular-paced	biventricular paced
+bizzare	bizarre
+caughing	coughing
+comparitive	comparative
+CONSISTANT	consistent
+couldn	could not
+cprrected	corrected
+differnt	different
+dificult	difficult
+dual-biV	dual biventricular
+dual-placed	dual-paced
+eleavation-	elevation
+expecially	especially
+fater	faster
+fluuter	flutter
+inferior-apical	inferoapical
+inferior-lat	inferolateral
+infero-apical	inferoapical
+infero-lat	inferolateral
+Infero-posterior	inferoposterior
+infero-septal	inferoseptal
+inf-lateral	inferolateral
+infra-nodal	infranodal
+insted	instead
+insus	sinus
+left-sided	left sided
+limb-lead	limb lead
+L-ward	leftward
+MI-new	myocardial infarction new
+Non-conduced	nonconducted
+non-conventional	nonconventional
+non-diagnositc	nondiagnositc
+Non-physiologic	nonphysiologic
+Non-scecific	nonspecific
+non-selective	nonselective
+Non-specifc	nonspecific
+non-specifi	nonspecific
+Non-speciifc	nonspecific
+Non-speficic	nonspecific
+non-spoecific	nonspecific
+NS-IVCD	nonspecific intraventricular conduction delay
+oposite	opposite
+ossible	possible
+paient	patient
+Possibe	possible
+POSSIBLITY	possilibity
+possiblty	possilibity
+possoble	possible
+P-QRS	PQRS
+Predominately	predominantly
+pre-excit	preexcitation
+pre-excitat	preexcitation
+pre-excitaton	preexcitation
+PRE-EXICITATION	preexcitation
+pre-operative	preoperativve
+preset	present
+probabl	probable
+rate-depednent	rate dependent
+rate-relate	rate related
+reiniation	reinitiation
+repol-	repolarization
+repol-new	repolarization
+rste-corrected	rate-corrected
+R-transition	R wave transition
+R-ward	rightward
+ST-depression	ST depression
+ST-elevation	ST elevation
+STEMI-new	ST elevation myocardial infarction new
+ST-Tchanges	ST-T changes
+ST-TW	ST T wave
+supra-ventricular	supraventricular
+take-off	takeoff
+T-ave	T wave
+tracing-	tracing
+traing	tracing
+V-apcing	V-pacing
+Wenkebach-	Wenckebach
+wihtout	without
+bi- atrial	biatrial
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	determine

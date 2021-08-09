@@ -1,0 +1,14 @@
+Phrase
+Test Reason%
+Blood Pressure :%
+Vent. Rate :%
+P-R Int :%
+QT Int :%
+QTC Int :%
+
+Reviewed by%
+Referred by%
+Confirmed by%
+Also reviewed by%
+When compared with%
+%/%/% [AP]M

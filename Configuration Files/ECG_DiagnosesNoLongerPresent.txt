@@ -1,0 +1,28 @@
+ReplacementType	Phrase	Before Correction	After Correction
+After	has replaced	Incomplete right bundle branch block has replaced Right bundle branch block	Incomplete right bundle branch block
+After	have replaced	Inverted T waves have replaced nonspecific T wave abnormality in Inferior leads	Inverted T waves
+After	is no longer with	Sinus rhythm is no longer with ventricular escape complexes	Sinus rhythm
+Before	has been replaced by	Sinus rhythm has been replaced Atrial flutter	Atrial flutter
+Before	have been replaced by	Inverted T waves have been replaced by nonspecific T wave abnormality in Lateral leads	nonspecific T wave abnormality in Lateral leads
+Before	no longer present	Left bundle branch block is no longer present	
+Before	no longer evident	Atrial pacing is no longer evident since prior tracing	
+Before	no longer seen	The LBBB is no longer seen	
+After	no longer in	"Since prior tracing, no longer in Afib"	
+Before	absent	"Since prior tracing, PVC is absent"	
+Before	not present	"Compared to prior tracing, ASMI pattern is not present"	
+Before	gone	"Since prior tracing, PVCs are now gone"	
+Before	resolved	Since prior tracing sinus tach resolved	
+Before	corrected	COMPARED TO PRIOR POOR R WAVE PROGRESSION HAS RESOLVED	COMPARED TO PRIOR
+Before	has disappeared		
+Before	have disappeared		
+Before	is no longer seen		
+Before	are no longer seen		
+After	replaces		
+Before	no longer noted		
+Before	not suggested		
+Before	not met		
+Before	no longer apparent		
+Before	no longer observed		
+Before	no longer met		
+Before	no longer present		
+After	no evidence for		

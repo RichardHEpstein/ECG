@@ -1,0 +1,13 @@
+MatchType	MatchString	VariableName	Offset	StringLength	Allow0	StringValue
+2	QT Int :	QT	9	3	0	0
+2	P-R-T Axes :	P_Axis	13	3	1	0
+2	R-T Axes :	R_Axis	15	3	1	0
+2	T Axes :	T_Axis	17	3	1	0
+2	QRS Dur : 	QRS	10	3	0	0
+2	P-R Int :	PR	10	3	0	0
+2	QTc Int :	QTc	10	3	0	0
+2	Vent. Rate :	V_Rate	13	3	0	0
+2	Atrial Rate :	A_Rate	14	3	0	0
+2	Reviewed by	EKG_Reader	12	999	0	1
+2	Test Reason :	Test_Reason	13	999	0	1
+2	Confirmed by:	EKG_Confirmer	13	999	0	1

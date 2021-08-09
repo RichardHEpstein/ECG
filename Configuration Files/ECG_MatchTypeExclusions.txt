@@ -1,0 +1,33 @@
+MatchType	ExcludeMatchString
+1	has replaced
+1	have replaced
+1	compared to
+1	when compared with ecg
+1	no longer
+1	Test Reason
+1	Questionable change
+1	Shortened
+1	Lengthened
+1	previous ecg has
+1	has resolved
+2	has increased
+2	has decreased
+2	have increased
+2	have decreased
+2	more elevated
+2	more depressed
+2	less elevated
+2	less depressed
+2	is lower
+2	is faster
+2	has slowed
+2	is slower
+2	has shortened
+2	No note
+2	Pediatric ECG analysis
+2	Pediatric ECG interpretation
+2	Please repeat EKG
+2	No prior tracing
+2	Gender not entered
+2	rate slower
+2	rate faster

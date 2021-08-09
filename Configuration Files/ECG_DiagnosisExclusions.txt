@@ -1,0 +1,24 @@
+Phrase
+Test reason
+no longer
+reviewed by
+confirmed by
+Blood pressure
+INT :
+When compared with ECG of
+Vent. Rate :
+Vent. rate has decreased BY
+Vent. rate has increased BY
+No previous ECGs available
+No significant change was found
+(No note.)
+Previous ECG has
+personally reviewed
+referred by
+No acute change
+No change
+No prior
+No old
+No previous
+No significiant
+No other abnormalities noted.

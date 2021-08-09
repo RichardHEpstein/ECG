@@ -1,0 +1,16 @@
+code	phrase
+1	may be normal variant
+2	borderline
+3	possible
+4	cannot exclude
+5	cannot rule out
+6	consider
+7	probable
+8	likely
+9	possibly
+10	potentially
+11	could be
+12	may be normal for age
+13	may be
+14	questionable
+15	suggests

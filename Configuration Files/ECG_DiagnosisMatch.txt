@@ -1,0 +1,199 @@
+Category	Code	Diagnosis	Match1	Match2	Match3	Match4	Match5	Match6	Match7	Match8	Match9	Match10	Exclude1	Exclude2	Exclude3	Exclude4	Exclude5	SQL
+Atrioventricular conduction	80	Short PR interval	short PR	short P-R														
+Atrioventricular conduction	81	AV conduction ratio N:D																
+Atrioventricular conduction	82	Prolonged PR interval	long%PR int	PR int%increase	1st_degree	first_degree	first A%V block	1st A%V block	prolonged P_R	prolonged PR								
+Atrioventricular conduction	83	"Second-degree AV block, Mobitz type I (Wenckebach)"	second_degree%A%V%block	2nd%degree%A%V%block	Wenckebach	Mobitz [1I]	second degree block	type 2%A%V%block					type II	type 2	Mobitz II	Mobitz 2		
+Atrioventricular conduction	84	"Second-degree AV block, Mobitz Type II"	Mobitz 2	Mobitz II									Wenckebach					
+Atrioventricular conduction	85	2:1 AV block	2%1%block															
+Atrioventricular conduction	86	"AV block, varying conduction"	A%V%block%var[iy]	var[iy]%A%V%block														
+Atrioventricular conduction	87	"AV block, advanced (high-grade)"	A%V%block%advanced	A%V%block%high_grade	advanced%A%V%block	high_grade%block	high_degree%block											
+Atrioventricular conduction	88	"AV block, complete (third-degree)"	A%V%block%complete	A%V%block%third_degree	A%V%block%3rd_degree	complete heart block	complete%A%V%block	third_degreeA%V%block	3rd_degreeA%V%block									
+Atrioventricular conduction	89	AV dissociation	A%V%dissociation															
+Axis and voltage	120	Right-axis deviation	right_axis	rightward axis	axis%shift%right	clock%rotat	with RAD	and RAD	northwest axis				inderminate axis					
+Axis and voltage	121	Left-axis deviation	left_axis	leftward axis	axis%shift%left	with LAD	and LAD						inderminate axis					
+Axis and voltage	122	Right superior axis	superior axis	sup%qrs%axis														
+Axis and voltage	123	Indeterminate axis	indeterminate axis															
+Axis and voltage	124	Electrical alternans	electrical alternans															
+Axis and voltage	125	Low voltage	low voltage	low QRS voltage	low voltage QRS													
+Axis and voltage	128	Abnormal precordial R-wave progression	poor%R_wave%prog	R wave prog%poor	poor%progr	poor R wave	delayed R_wave	abnormal%R%progr	abn%R_wave%progr	borderline R wave progr								
+Axis and voltage	131	Abnormal P-wave axis	abn%P_wave axis	abn%p_axis	unusual P%axis													
+Chamber hypertrophy or enlargement	140	Left atrial enlargement	Left atrial%enlargement	biatrial enlargement	left atrial abn	biatrial abn												
+Chamber hypertrophy or enlargement	141	Right atrial enlargement	Right atrial%enlarge	biatrial enlarge	right atrial abn	biatrial abn												
+Chamber hypertrophy or enlargement	142	Left ventricular hypertrophy	Left vent%hypertrophy	LVH														
+Chamber hypertrophy or enlargement	143	Right ventricular hypertrophy	Right vent%hypertrophy	RVH	right_heart strain													
+Chamber hypertrophy or enlargement	144	Biventricular hypertrophy	biventricular hypertrophy															
+Intraventricular and intra-atrial conduction	100	Aberrant conduction of supraventricular beat(s)	aberrant%conduct															
+Intraventricular and intra-atrial conduction	101	Left anterior fascicular block	left anterior fascicular block	bifascicular block	left anterior hemiblock													
+Intraventricular and intra-atrial conduction	102	Left posterior fascicular block	left posterior fascicular block	bifascicular block														
+Intraventricular and intra-atrial conduction	103	Left bundle-branch block	left bundle_branch block	LBBB														
+Intraventricular and intra-atrial conduction	104	Incomplete right bundle-branch block	incomplete right bundle_branch block	IRBBB	RSR	inc%rbbb	ICRBBB											
+Intraventricular and intra-atrial conduction	105	Right bundle-branch block	right bundle%branch block	RBBB									incomplete	IRBBB				
+Intraventricular and intra-atrial conduction	106	Intraventricular conduction delay	ventricular conduction delay	nonspecific intraventricular block	VCD	A%V%cond%abn	AV Conduction delay											
+Intraventricular and intra-atrial conduction	107	preexcitation	pre_excitation	Wolff_Parkinson_White	WPW	preexcitation												
+Intraventricular and intra-atrial conduction	108	Right atrial conduction abnormality	R%A%conduction abnormality															
+Intraventricular and intra-atrial conduction	109	Left atrial conduction abnormality	Left Atrial conduction abnormality															
+Intraventricular and intra-atrial conduction	110	Epsilon wave	epsilon wave															
+Modifiers	302	{Consider}																
+Modifiers	312	{Possible}																
+Modifiers	315	{Probable}																
+Modifiers	321	{Nonspecific}																
+Modifiers	341	In a bigeminal pattern	bigemin[ay]															
+Modifiers	342	In a trigeminal pattern	trigemin[ay]															
+Modifiers	346	With a rapid ventricular response	rapid ventricular	fast ventricular														
+Modifiers	347	With a slow ventricular response	slow ventricular															
+Modiiers	340	couplets	couplets															
+Myocardial infarction	160	Anterior MI	anterior MI	anterior myocardial infarction	myocardial infarction%anterior	anter%infarct							anteroseptal					
+Myocardial infarction	161	Inferior MI	inferior MI	inferior myocardial infarction	myocardial infarction%inferior	infer%infarct												
+Myocardial infarction	162	Posterior MI	posterior MI	posterior myocardial infarction	myocardial infarction%posterior	post%infarct												
+Myocardial infarction	163	Lateral MI	lateral MI	lateral myocardial infarction	myocardial infarction%lateral	lateral%infarct												
+Myocardial infarction	165	Anteroseptal MI	anteroseptal MI	anteroseptal myocardial infarction	myocardial infarction%anteroseptal	anteroseptal_infarct												
+Myocardial infarction	166	Extensive anterior MI	extensive anterior MI	extensive anterior myocardial infarction	anterior myocardial infarction%extensive													
+Myocardial infarction	173	MI in presence of left bundle-branch block	MI%left bundle_branch block	MI%LBBB	myocardial infarction%left bundle_branch block	myocardial infarction%LBBB	infarct%mask%block											
+Myocardial infarction	174	Right ventricular MI	Right ventricular MI	right ventricular myocardial infarct	right ventricular involvement%infarct													
+Overall interpretation	1	Normal ECG	n%l e_g	NORMAL FOR AGE -	PROBABLY NORMAL -								ab	otherwise				
+Overall interpretation	2	Otherwise normal ECG	otherwise n%l_E[CK]G															
+Overall interpretation	3	Abnormal ECG	abn%l E[CK]G	abnormal E[CK]G	Significant changes have occurred								rule out		probably Normal ECG			
+Overall interpretation	4	Uninterpretable ECG	uninterpret%E_G	not interpretable														
+Pacemaker	180	Atrial-paced complex(es) or rhythm	Atrial_pac[ie]	a_paced	atrial%paced													
+Pacemaker	181	Ventricular-paced complex(es) or rhythm	ventricular_pac[ie]	v_pac[ie]														
+Pacemaker	182	Ventricular pacing of non-right ventricular apical origin	ventricular_pac%non%apical															
+Pacemaker	183	Atrial-sensed ventricular-paced complex(es) or rhythm	Atrial_sensed%Ventricular_paced															
+Pacemaker	184	AV dual-paced complex(es) or rhythm	dual_paced	av_sequential	a pac%v sens	DDD pac	av_paced	ATRIAL-BIVENTRICULAR PACED										
+Pacemaker	185	"Failure to capture, atrial"	fail%capture%atrial															
+Pacemaker	186	"Failure to capture, ventricular"	fail%capture%ventric															
+Pacemaker	187	Failure to inhibit	fail%inhibit										atrial					
+Pacemaker	188	"Failure to inhibit, atrial"	fail%inhibit%atrial															
+Pacemaker	189	"Failure to pace, atrial"	fail%pace%atrial															
+Pacemaker	190	"Failure to pace, ventricular"	fail%pace%vent															
+Sinus node rhythms and arrhythmias	20	Sinus rhythm	sinus rhythm	NSR	rhythm is%sinus													
+Sinus node rhythms and arrhythmias	21	Sinus tachycardia	sinus tachy															
+Sinus node rhythms and arrhythmias	22	Sinus bradycardia	sinus brady															
+Sinus node rhythms and arrhythmias	23	Sinus arrhythmia	sinus arrh															
+Sinus node rhythms and arrhythmias	24	"Sinoatrial block, type I"	S%A%block%type_[I1]										II					
+Sinus node rhythms and arrhythmias	25	"Sinoatrial block, type II"	S%A%block%type_II	S%A%block%type_2														
+Sinus node rhythms and arrhythmias	26	Sinus pause or arrest	sinus%pause	sinus%arrest														
+Sinus node rhythms and arrhythmias	27	Uncertain supraventricular rhythm	uncertain supraventricular rhythm	unknown supraventricular rhythm	indeterminate supraventricular rhythm													
+"ST segment, T wave,  and U wave"	145	ST deviation	ST deviation	ST elevation	ST depression	ST abn[lo]	NSST change						T_wave					
+"ST segment, T wave,  and U wave"	146	ST deviation with T-wave change	ST deviation%T_wave	ST%t_wave%abn														
+"ST segment, T wave,  and U wave"	147	T-wave abnormality	T_wave abn	inverted t_wave	t_wave inversion	t wave	t_abn	abnormal T										
+"ST segment, T wave,  and U wave"	148	Prolonged QT interval	long%QT	QT%lengthen	QT%prolong													
+"ST segment, T wave,  and U wave"	149	Short QT interval	short QT															
+"ST segment, T wave,  and U wave"	150	Prominent U waves	prominent_U_wave	u wave														
+"ST segment, T wave,  and U wave"	151	Inverted U waves	inverted U_wave															
+"ST segment, T wave,  and U wave"	152	TU fusion	TU fusion															
+"ST segment, T wave,  and U wave"	153	ST-T change due to ventricular hypertrophy	ST_T%vent%hyper															
+"ST segment, T wave,  and U wave"	154	Osborn wave	Osborn wave															
+"ST segment, T wave,  and U wave"	155	Early repolarization	repolari[zs]ation															
+Supraventricular arrhythmias	30	Atrial premature complex(es)	APC	PAC	atrial premature complex	premature atrial contr							pac[ei]	nonconducted				
+Supraventricular arrhythmias	31	"Atrial premature complexes, nonconducted"	atrial premature complex%nonconducted	premature atrial complex%nonconducted	APC%nonconducted	PAC%nonconducted	nonconducted premature atrial	nonconducted PAC										
+Supraventricular arrhythmias	32	Retrograde atrial activation	retrograde															
+Supraventricular arrhythmias	33	Wandering atrial pacemaker	wandering%pace															
+Supraventricular arrhythmias	34	Ectopic atrial rhythm	ectopic atrial										multifocal					
+Supraventricular arrhythmias	35	"Ectopic atrial rhythm, multifocal"	ectopic atria%multifocal	multifocal ectopic atrial rhythm														
+Supraventricular arrhythmias	36	Junctional premature complex(es)	junctional premature complex	premature junctional complex														
+Supraventricular arrhythmias	37	Junctional escape complex(es)	junctional escape															
+Supraventricular arrhythmias	38	Junctional rhythm	junctional rhythm										accelerated					
+Supraventricular arrhythmias	39	Accelerated junctional rhythm	accelerated junctional rhythm															
+Supraventricular arrhythmias	40	Supraventricular rhythm	supraventricular rhythm	supraventricular run	aberrant complex%SUPRAVENT													
+Supraventricular arrhythmias	41	Supraventricular complex(es)	supraventricular complex	premature complex%supra														
+Supraventricular arrhythmias	42	Bradycardia	bradycardia										sinus					
+Supraventricular tachyarrhythmias 	50	Atrial fibrillation	atrial fib	a fib	a_fib	afib												
+Supraventricular tachyarrhythmias 	51	Atrial flutter	flutter															
+Supraventricular tachyarrhythmias 	52	"Ectopic atrial tachycardia, unifocal"	ectopic atrial tach										multi					
+Supraventricular tachyarrhythmias 	53	"Ectopic atrial tachycardia, multifocal"	ectopic atrial tach%multifocal	multifocal ectopic atrial tach														
+Supraventricular tachyarrhythmias 	54	Junctional tachycardia	junctional tach															
+Supraventricular tachyarrhythmias 	55	Supraventricular tachycardia	supraventricular tach	SVT														
+Supraventricular tachyarrhythmias 	56	Narrow-QRS tachycardia	narrow%tach															
+Technical conditions 	10	Extremity electrode reversal	electrode%revers	revers%electrode	lead%revers	revers%limb_lead	limb_lead%switch	switch%limb_lead										
+Technical conditions 	11	Misplaced precordial electrode(s)	prec%electrode%revers	prec%lead%malposition	malposition%prec%lead	prec%lea_ rev	prec%lead_misp						R_wave					
+Technical conditions 	12	Missing lead(s)	missing lead	nonstandard%lead	lead%missing	lead%p[lo][as]	improper%lead	misplac%lead	lead switch	switch%lead	verify lead	not enough lead						
+Technical conditions 	13	Right-sided precordial electrode(s)	right%prec%electrode															
+Technical conditions 	14	Artifact	art[ie]f	best possible	best tracing	wandering baseline												
+Technical conditions 	15	Poor-quality data	quality	poor baseline	baseline wander	hardware fa[iu]l	technically poor	missing data	defective e[ck]g				previous	improved	better			
+Technical conditions 	16	Posterior electrode(s)	post%electrode															
+Ventricular arrhythmias	60	Ventricular premature complex(es)	ventricular premature	premature ventricular	VPC	PVC	 ventricular ectopy	premature complex%vent	ventricular complex	vent prem	vent%interp%comp							
+Ventricular arrhythmias	61	Fusion complex(es)	fusion										no longer					
+Ventricular arrhythmias	62	Ventricular escape complex(es)	ventricular escape	escape ventricular														
+Ventricular arrhythmias	63	Idioventricular rhythm	idioventricular rhythm										accelerated					
+Ventricular arrhythmias	64	Accelerated idioventricular rhythm	accelerated idioventricular rhythm															
+Ventricular arrhythmias	65	Fascicular rhythm	fascicular rhythm															
+Ventricular arrhythmias	66	Parasystole	parasystole															
+Ventricular tachyarrhythmias 	70	Ventricular tachycardia	ventricular tach										nsustained	polymorph	torsades	supra		
+Ventricular tachyarrhythmias 	71	"Ventricular tachycardia, unsustained"	ventricular tach%nsustain	unsustained v%tach	nonsustained v%tach								polymorph	torsades	supra			
+Ventricular tachyarrhythmias 	72	"Ventricular tachycardia, polymorphous"	ventricular tach%polymorph	polymorph%ventricular tach									torsades	supra				
+Ventricular tachyarrhythmias 	73	"Ventricular tachycardia, torsades de pointes"	torsades															
+Ventricular tachyarrhythmias 	74	Ventricular fibrillation	ventricular fib	v_fib														
+Ventricular tachyarrhythmias 	75	Fascicular tachycardia	fascicular tach															
+Ventricular tachyarrhythmias 	76	Wide-QRS tachycardia	wide_QRS tach															
+Secondary Statements	212	Hypothermia	hypothermia															
+Secondary Statements	213	Ostium primum ASD	atrial septal defect%prim	ostium primum ASD														
+Secondary Statements	214	Pericardial effusion	pericardial eff															
+Secondary Statements	215	Sinoatrial disorder	sinoatrial disorder															
+Secondary Statements	220	Acute ischemia	acute coronary syndrome															
+Secondary Statements	221	AV nodal reentry	AV nodal%entry	atrioventricular%nodal%entry														
+Secondary Statements	222	AV reentry	AV reentry	atrioventricular reentry														
+Secondary Statements	223	Genetic repolarization abnormality	genetic%repol%abn															
+Secondary Statements	224	High precordial lead placement	high%pre%lead															
+Secondary Statements	225	Hypothyroidism	hypothyroid															
+Secondary Statements	226	Ischemia	ischemi[ac]										not diagnostic for					
+Secondary Statements	227	Left ventricular aneurysm	left vent%aneurysm															
+Secondary Statements	228	Normal variant	normal variant															
+Secondary Statements	200	Acute pericarditis	pericarditis															
+Secondary Statements	201	Acute pulmonary embolism	pulmonary emobol															
+Secondary Statements	202	Brugada abnormality	Brugada															
+Secondary Statements	203	Chronic pulmonary disease	chronic%pulm%disease	COPD														
+Secondary Statements	204	CNS disease	central nervous system															
+Secondary Statements	205	Digitalis effect	digitalis eff															
+Secondary Statements	206	Digitalis toxicity	digitalis tox															
+Secondary Statements	207	Hypercalcemia	hypercalcemia															
+Secondary Statements	208	Hyperkalemia	hyperkalemia															
+Secondary Statements	209	Hypertrophic cardiomyopathy	hypertrophic cardiomyopathy	septal hypertrophy														
+Secondary Statements	210	Hypocalcemia	hypocalcemia															
+Secondary Statements	211	Hypokalemia or drug effect	hypokalemia															
+Secondary Statements	229	Pulmonary disease	pulmonary disease															
+Secondary Statements	230	Dextrocardia	dextrocard															
+Secondary Statements	231	Dextroposition	dextropos															
+Convenience Terms	500	Nonspecific ST-T abnormality	specific ST_T	NSSTT	specific%ST	ST_T abn[lo]	ST%change							improved	better			
+Convenience Terms	501	ST elevation	ST elev	ST now elevat	ST segment elevat													
+Convenience Terms	502	ST depression	ST depress	ST now depress	ST segment depress													
+Free Text Additions	900	MI	Mycardial Infarction	STEMI	Acute MI	infarct	wall MI											
+Free Text Additions	902	wide QRS pattern	wide QRS	QRS wide	wide complex													
+Free Text Additions	903	possible pacemaker issue	pac[ei]%failure	pace[mr]%eval	pace[rm]%malfunction	lack of capture	lack of sensing	ineffect%pac[ie][rm]	intermit%pac[ei][rnm]	malfunction%pace[rm]	atrial undersens	failure to sense%CAPTURE% MAGNET						
+Free Text Additions	904	indeterminate rhythm	undetermined%rhythm	indeterminate%rhythm	indeterminant%rhythm													
+Free Text Additions	905	early transition	early transition	early%pre%trans	early%pre%prog	early%R%trans												
+Free Text Additions	906	atrial tachycardia	atrial tachy															
+Free Text Additions	907	pacemaker present	pacemaker	pac[ei][dnrm]	atrial capture	atrial%ventricular_pac[ei][mnr]	VVI						junctional pace	wandering				
+Free Text Additions	908	QRS notch	QRS notch															
+Free Text Additions	909	myocardial injury	injury										neuro					
+Free Text Additions	910	Q waves	Q_wave															
+Free Text Additions	911	pulmonary hypertension	pulmonary hypertension															
+Free Text Additions	912	septal MI	septal_MI	septal myocardial infarction	myocardial infarction%septal	septal_infarct							anteroseptal					
+Free Text Additions	913	pseudoinfarct	pseudoinfarct pattern															
+Free Text Additions	914	prolonged AV conduction	prolonged AV conduction	A_V block	variable block	variable AV conduction	AV block	aberrant cond										
+Free Text Additions	915	rapid ventricular response	RVR	rapid ventricular response														
+Free Text Additions	916	acute coronary syndrome	acute coronary syndrome															
+Free Text Additions	917	2:1 conduction	2:1%conduct	2 to 1	2:1 AV BLOCK								HR					
+Free Text Additions	918	3:1 conduction	3:1%conduct	3 to 1	3:1 AV BLOCK								HR					
+Free Text Additions	919	4:1 conduction	4:1%conduct	4 to 1	4:1 AV BLOCK								HR					
+Free Text Additions	920	5:1 conduction	5:1%conduct	5 to 1	5:1 AV BLOCK								HR					
+Free Text Additions	922	incomplete left bundle branch block	incomplete left bundle branch block	ILBBB	ICLBBB													
+Free Text Additions	923	fascicular block	fascicular block	fascicular block														
+Free Text Additions	924	bundle branch block	bundle branch block	bundle branch block														
+Free Text Additions	925	competing junctional pacemaker	competing junctional pacemaker															
+Free Text Additions	928	borderline ECG	borderline ECG															
+Free Text Additions	929	late precordial R/S transition	late precord%trans	late%R%trans														
+Free Text Additions	930	S1 S2 S3 Pattern	S1_S2_S3															
+Free Text Additions	931	"atrial septal defect, secundum"	atrial septal defect%sec	asd%sec														
+Free Text Additions	932	Ebstein anomaly	Ebstein anomaly	Ebstein														
+Free Text Additions	933	endocardial cushion defect	endocardial cushion defect	endocardial cush														
+Free Text Additions	934	tricuspid atresia	tricuspid atresia	tricuspid atresia														
+Free Text Additions	935	cor pulmonale	cor pulmonale	cor pulm														
+Free Text Additions	934	cardiomyopathy	cardiomyopathy															
+Free Text Additions	935	extreme tachycardia (Philips)	extreme tachy															
+Free Text Additions	936	uncertain aberrant or premature complex (Philips)	ABERRANT COMPLEX	PREMATURE COMPLEX UNCERTAIN MECHANISM														
+Free Text Additions	937	CONSIDER POSTERIOR WALL INVOLVEMENT (Philips)	CONSIDER POSTERIOR WALL INVOLVEMENT															
+Free Text Additions	938	high or low atrial rhythm (Philips)	HIGH LEFT ATRIAL RHYTHM	HIGH RIGHT ATRIAL RHYTHM	LOW LEFT ATRIAL RHYTHM	LOW RIGHT ATRIAL RHYTHM												
+Free Text Additions	939	unknown irregular rhythm (Philips)	UNKNOWN RHYTHM IRREGULAR RATE															
+Free Text Additions	940	prominent nondiagnositc P waves (Philips)	PROMINENT P WAVES NONDIAGNOSTIC															
+Free Text Additions	941	high QRS voltage (Philips)	HIGH QRS VOLTAGE															
+Free Text Additions	942	lateral leads involved (Philips)	LATERAL LEADS ARE ALSO INVOLVED															
